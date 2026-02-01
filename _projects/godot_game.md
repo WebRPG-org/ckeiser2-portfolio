@@ -484,7 +484,11 @@ func refresh_style():
 ```
 
 ##### Link to google drive w/ Design Docs
-https://drive.google.com/drive/folders/1K3kAyzcWXABthIY7s9kPn_uHCcTR0HU6?usp=sharing
+<div class="left">
+{% include elements/button.html link="https://drive.google.com/drive/folders/1K3kAyzcWXABthIY7s9kPn_uHCcTR0HU6?usp=sharing" text="Google Drive with Design Documents" %}
+</div>
 
 ##### Link to github repo/ project code
-https://github.com/LukeAlbarracin/2048-Knight/tree/main
+<div class="right">
+{% include elements/button.html link="https://github.com/LukeAlbarracin/2048-Knight/tree/main" text="Github Repo" %}
+</div>

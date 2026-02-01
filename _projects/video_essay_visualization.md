@@ -26,4 +26,6 @@ This was a project that takes web scraped data that showcases the scripts from m
 
 ## Button Links
 
-https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv
+<div class="right">
+{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" text="Dataset" %}
+</div>

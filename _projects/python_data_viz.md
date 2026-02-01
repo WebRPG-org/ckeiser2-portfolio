@@ -31,6 +31,9 @@ Source for Dataset:  *https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is4
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 
-## Data Used link
+## Button Links
 
-https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv
+<div class="left">
+{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" text="Dataset" %}
+</div>
+

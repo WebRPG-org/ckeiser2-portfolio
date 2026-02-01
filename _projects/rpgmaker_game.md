@@ -50,7 +50,7 @@ This RPG system was expanded using custom-written Javascript plugins to add mode
     allowfullscreen>
 </iframe>
 
-## ▶ Play the Game (Volume Warning!!!)
+## ▶ Play the Game below (Volume Warning!!!)
 ```python
 """
 Keybindings:

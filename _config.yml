@@ -7,8 +7,9 @@ first_name: Colton Keiser
 middle_name:
 last_name: 
 contact_note: >
-  Links to contact information and sites of mine. Website was built using "jekyll" an open-source static site generator written in Ruby 💎.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Links to contact information and sites of mine.
+description: >  # the ">" symbol means to ignore newlines until "footer_text:"
+  Website was built using "jekyll" an open-source static site generator written in Ruby 💎. 
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

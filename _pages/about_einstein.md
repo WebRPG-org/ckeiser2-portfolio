@@ -13,6 +13,3 @@ Graduated from the University of Illinois with a Bachelor’s in Information Sci
 {% include about/skills.html title="Programming Languages" source=site.data.other-skills %}
 </div>
 
-<div class="row">
-{% include about/timeline.html %}
-</div>

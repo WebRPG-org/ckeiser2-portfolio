@@ -39,7 +39,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: blueberry # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: ocean_dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: blue_navy # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false

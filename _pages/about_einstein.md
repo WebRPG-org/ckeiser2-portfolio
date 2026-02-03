@@ -23,7 +23,11 @@ document.addEventListener("DOMContentLoaded", () => {
         if (entry.isIntersecting) {
           const bar = entry.target;
           const value = bar.dataset.percentage;
-          bar.style.width = value + "%";
+
+          if (value) {
+            bar.style.width = value + "%";
+          }
+
           observer.unobserve(bar);
         }
       });
@@ -34,3 +38,4 @@ document.addEventListener("DOMContentLoaded", () => {
   bars.forEach(bar => observer.observe(bar));
 });
 </script>
+

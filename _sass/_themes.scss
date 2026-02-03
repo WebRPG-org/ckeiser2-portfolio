@@ -173,11 +173,12 @@ html[data-theme-setting="light"] {
 }
 
 .skill-bar {
-  width: 0;            
+  width: 0 !important;
   background-color: var(--global-theme-color);
   border-radius: 3px;
   transition: width 1.2s ease-out;
 }
+
 
 .skill-name {
   font-size: 0.7rem;

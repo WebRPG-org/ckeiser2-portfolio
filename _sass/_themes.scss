@@ -167,14 +167,24 @@ html[data-theme-setting="light"] {
 }
 
 .skill-progress {
-  height: 6px;                 /* thinner bars */
-  margin-bottom: 0.75rem;      /* tighter spacing */
+  height: 6px;              
+  margin-bottom: 0.75rem;    
   background-color: var(--global-divider-color);
 }
 
 .skill-bar {
-  width: 0;
+  width: 0;            
   background-color: var(--global-theme-color);
   border-radius: 3px;
   transition: width 1.2s ease-out;
+}
+
+.skill-name {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.skill-level {
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
 }

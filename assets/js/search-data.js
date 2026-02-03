@@ -30,7 +30,42 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/resume/";
           },
-        },{id: "books-the-alchemist",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/blog/";
+              },
+            },{id: "dropdown-about-me",
+              title: "about me",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/about_me/";
+              },
+            },{id: "dropdown-news",
+              title: "news",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/news/";
+              },
+            },{id: "dropdown-site-analytics",
+              title: "site analytics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/analytics/";
+              },
+            },{id: "books-the-alchemist",
           title: 'The Alchemist',
           description: "",
           section: "Books",handler: () => {

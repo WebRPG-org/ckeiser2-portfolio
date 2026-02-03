@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const e=document.querySelectorAll(".skill-bar");if(!e.length)return;const t=new IntersectionObserver(e=>{e.forEach(e=>{if(e.isIntersecting){const n=e.target,r=n.dataset.percentage;r&&(n.style.width=r+"%"),t.unobserve(n)}})},{threshold:.3});e.forEach(e=>t.observe(e))});

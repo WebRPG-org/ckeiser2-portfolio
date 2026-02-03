@@ -159,3 +159,22 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+/* Skill bars layout */
+.skill-label {
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.skill-progress {
+  height: 6px;                 /* thinner bars */
+  margin-bottom: 0.75rem;      /* tighter spacing */
+  background-color: var(--global-divider-color);
+}
+
+.skill-bar {
+  width: 0;
+  background-color: var(--global-theme-color);
+  border-radius: 3px;
+  transition: width 1.2s ease-out;
+}

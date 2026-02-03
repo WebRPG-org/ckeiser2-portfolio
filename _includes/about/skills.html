@@ -5,21 +5,17 @@
   {% for skill in include.source %}
 
   <!-- Skill label row -->
-  <div class="d-flex justify-content-between align-items-center mb-1">
-    <span>{{ skill.name }}</span>
-    <span class="text-muted small">{{ skill.level }}</span>
+  <div class="d-flex justify-content-between align-items-center skill-label">
+    <span class="skill-name">{{ skill.name }}</span>
+    <span class="skill-level text-muted">{{ skill.level }}</span>
   </div>
 
   <!-- Progress bar -->
-  <div class="progress mb-4" style="height: 8px;">
+  <div class="progress skill-progress">
     <div
-      class="progress-bar"
+      class="progress-bar skill-bar"
       role="progressbar"
-      style="
-        width: {{ skill.percentage }}%;
-        background-color: var(--global-theme-color);
-      "
-      aria-valuenow="{{ skill.percentage }}"
+      data-percentage="{{ skill.percentage }}"
       aria-valuemin="0"
       aria-valuemax="100">
     </div>

@@ -13,3 +13,24 @@ Graduated from the University of Illinois with a Bachelor’s in Information Sci
 {% include about/skills.html title="Programming Languages" source=site.data.other-skills %}
 </div>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const bars = document.querySelectorAll(".skill-bar");
+
+  const observer = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const bar = entry.target;
+          const value = bar.dataset.percentage;
+          bar.style.width = value + "%";
+          observer.unobserve(bar);
+        }
+      });
+    },
+    { threshold: 0.3 }
+  );
+
+  bars.forEach(bar => observer.observe(bar));
+});
+</script>

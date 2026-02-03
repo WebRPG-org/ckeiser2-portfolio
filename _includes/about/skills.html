@@ -12,11 +12,14 @@
   </div>
 
   <!-- Progress bar -->
-  <div class="progress skill-progress">
+  <div class="progress mb-4" style="height: 8px;">
     <div
-      class="progress-bar skill-bar"
+      class="progress-bar"
       role="progressbar"
-      data-percentage="{{ skill.percentage }}"
+      style="
+        width: {{ skill.percentage }}%;
+        background-color: var(--global-theme-color);
+      "
       aria-valuenow="{{ skill.percentage }}"
       aria-valuemin="0"
       aria-valuemax="100">

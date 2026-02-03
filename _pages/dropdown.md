@@ -18,5 +18,5 @@ children:
     permalink: /news/
   - title: divider
   - title: site analytics
-    permalink /analytics/
+    permalink: /analytics/
 ---

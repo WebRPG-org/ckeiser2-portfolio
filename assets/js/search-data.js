@@ -85,8 +85,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/gatsby/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-wizzywig-portrait-of-a-serial-hacker",
+          title: 'Wizzywig, Portrait of a serial hacker',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/wizzywig/";

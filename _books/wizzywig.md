@@ -5,7 +5,7 @@ author: Ed Piskor
 cover: assets/img/book_covers/wizzywig.png
 olid: OL27136717M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Fiction, Science Fiction
+categories: Fiction, Graphic Novel, Comic
 tags: top-100
 buy_link: 
 date: 2026-1-27

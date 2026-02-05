@@ -75,6 +75,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/babel/";
+            },},{id: "books-dune",
+          title: 'Dune',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/portfolio/books/dune/";
             },},{id: "news-release-of-portfolio",
           title: 'Release of portfolio',
           description: "",

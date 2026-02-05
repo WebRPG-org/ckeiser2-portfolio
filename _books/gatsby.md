@@ -14,7 +14,7 @@ finished: 2024-5-1
 released: 1920
 stars: 5
 goodreads_review: 
-status: Finished
+status: reread
 ---
 
 Placeholder text

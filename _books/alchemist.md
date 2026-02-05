@@ -14,7 +14,7 @@ finished: 2025-11-24
 released: 1995
 stars: 5
 goodreads_review: 
-status: Finished
+status: Finished # Options: 'abandoned,finished,interested,paused,queued,reading,reread'
 ---
 
 Placeholder text

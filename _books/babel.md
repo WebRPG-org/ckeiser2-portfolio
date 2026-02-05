@@ -14,7 +14,7 @@ finished:
 released: 1995
 stars: 5
 goodreads_review: 
-status: started
+status: reading
 ---
 
 Pending review

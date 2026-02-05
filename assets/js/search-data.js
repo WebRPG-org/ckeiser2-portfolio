@@ -80,6 +80,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/dune/";
+            },},{id: "books-the-great-gatsby",
+          title: 'The Great Gatsby',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/portfolio/books/gatsby/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/portfolio/books/wizzywig/";
             },},{id: "news-release-of-portfolio",
           title: 'Release of portfolio',
           description: "",

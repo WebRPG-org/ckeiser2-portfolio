@@ -10,7 +10,7 @@ children:
   - title: divider
 #  - title: blog
 #    permalink: /blog/
-  - title: divider
+#  - title: divider
   - title: about me
     permalink: /about_me/
   - title: divider

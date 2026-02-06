@@ -1,7 +1,7 @@
 github_users:
   - ckeiser2
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
   - ckeiser2/ckeiser2.github.io

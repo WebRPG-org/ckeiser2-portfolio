@@ -1,5 +1,5 @@
 ---
-title: 🐍 Machine Learning via Tweets 🤖 🧠
+title: Machine Learning via Tweets 🤖 🧠
 #permalink: /python/:name/
 category: python 🐍
 layout: page

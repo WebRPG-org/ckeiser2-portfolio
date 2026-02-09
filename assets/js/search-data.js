@@ -95,7 +95,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/godot_game/";
             },},{id: "projects-machine-learning-via-tweets",
-          title: '🐍 Machine Learning via Tweets 🤖 🧠',
+          title: 'Machine Learning via Tweets 🤖 🧠',
           description: "Training a model and creating a visualization based on &quot;Confidence&quot; of the model using tweets from the president.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/machine_learning/";

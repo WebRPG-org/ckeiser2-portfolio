@@ -100,17 +100,17 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/machine_learning/";
             },},{id: "projects-network-clustering-analysis",
-          title: '📊 Network Clustering Analysis 🐍',
+          title: '📊 Network Clustering Analysis',
           description: "Python project utilizing networkx",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/network_visual_project/";
             },},{id: "projects-tf-idf-text-analysis",
-          title: '📊 TF-IDF Text Analysis 🐍',
+          title: '📊 TF-IDF Text Analysis',
           description: "Python project text analysis using TF-IDF",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/pres_speech_analysis/";
             },},{id: "projects-python-interactive-data-visualization",
-          title: '📊 Python Interactive Data Visualization 🐍',
+          title: '📊 Python Interactive Data Visualization',
           description: "Using Python and packages like Altair | Data Analytics | Data Visualization",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/python_data_viz/";
@@ -120,22 +120,22 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/rpgmaker_game/";
             },},{id: "projects-geo-plotting-analysis",
-          title: '📊 Geo Plotting / Analysis 🐍',
+          title: '📊 Geo Plotting / Analysis',
           description: "Using python libraries to use data over geo maps",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/spatial_analysis/";
             },},{id: "projects-tei-solutions",
-          title: '📊 TEI Solutions 🐍',
+          title: '📊 TEI Solutions',
           description: "Converting HTML data to TEI | Data Parsing",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/tei_solutions/";
             },},{id: "projects-text-analysis-using-named-entity-recognition",
-          title: '📊 Text Analysis using Named Entity Recognition 🐍',
+          title: '📊 Text Analysis using Named Entity Recognition',
           description: "Sorting through text using strategies like Named Entity Recognition and POS Tagging",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/text_analysis_ner/";
             },},{id: "projects-topic-modeling",
-          title: '📊 Topic Modeling 🐍',
+          title: '📊 Topic Modeling',
           description: "Topic Modeling with Python",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/topic_modeling/";
@@ -145,12 +145,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/twine_game/";
             },},{id: "projects-text-analysis-visualization",
-          title: '📊 Text Analysis Visualization 🐍',
+          title: '📊 Text Analysis Visualization',
           description: "Python project | Data Scraping | Altair",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/video_essay_visualization/";
             },},{id: "projects-text-analysis-using-named-entity-recognition",
-          title: '📊 Text Analysis using Named Entity Recognition 🐍',
+          title: '📊 Text Analysis using Named Entity Recognition',
           description: "Project using webscraped data using pandas and APIs.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/web_scraping/";

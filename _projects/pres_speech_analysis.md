@@ -1,5 +1,5 @@
 ---
-title: 📊 TF-IDF Text Analysis 🐍
+title: 📊 TF-IDF Text Analysis
 #permalink: /python/:name/
 layout: page
 #tools: [Python, Pandas]

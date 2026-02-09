@@ -1,5 +1,5 @@
 ---
-title: 📊 Geo Plotting / Analysis 🐍
+title: 📊 Geo Plotting / Analysis
 #permalink: /python/:name/
 layout: page
 category: python 🐍

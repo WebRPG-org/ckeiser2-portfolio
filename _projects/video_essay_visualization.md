@@ -1,5 +1,5 @@
 ---
-title: 📊 Text Analysis Visualization 🐍
+title: 📊 Text Analysis Visualization
 #permalink: /python/:name/
 layout: page
 category: python 🐍

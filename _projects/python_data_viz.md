@@ -1,5 +1,5 @@
 ---
-title: 📊 Python Interactive Data Visualization 🐍
+title: 📊 Python Interactive Data Visualization
 #permalink: /python/:name/
 layout: page
 #tools: [Python, ALtair]

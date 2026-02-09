@@ -1,5 +1,5 @@
 ---
-title: 📊 TEI Solutions 🐍
+title: 📊 TEI Solutions
 #permalink: /python/:name/
 layout: page
 category: python 🐍

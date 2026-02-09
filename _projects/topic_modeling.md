@@ -1,5 +1,5 @@
 ---
-title: 📊 Topic Modeling 🐍
+title: 📊 Topic Modeling
 #permalink: /python/:name/
 layout: page
 category: python 🐍

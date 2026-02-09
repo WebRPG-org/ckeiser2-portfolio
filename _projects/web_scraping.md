@@ -1,5 +1,5 @@
 ---
-title: 📊 Text Analysis using Named Entity Recognition 🐍
+title: 📊 Text Analysis using Named Entity Recognition
 #permalink: /python/:name/
 layout: page
 category: python 🐍

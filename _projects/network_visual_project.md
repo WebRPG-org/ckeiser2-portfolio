@@ -1,5 +1,5 @@
 ---
-title: 📊 Network Clustering Analysis 🐍
+title: 📊 Network Clustering Analysis
 #permalink: /python/:name/
 category: python 🐍
 layout: page

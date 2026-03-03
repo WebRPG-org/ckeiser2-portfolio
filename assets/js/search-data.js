@@ -84,11 +84,6 @@ ninja.data = [{
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/barbs_dungeon/";
-            },},{id: "projects-concept-redesign-ror2-️",
-          title: '🎮 Concept Redesign ROR2 🕹️',
-          description: "Addressing my redesign concept for a fighting game character",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/concept_redesign/";
             },},{id: "projects-godot-game-2048-knight-️",
           title: '🎮 Godot Game [2048 Knight] 🕹️',
           description: "C# in Godot Engine, Designed the UI and multiple systems.",
@@ -144,6 +139,11 @@ ninja.data = [{
           description: "Choose your own adventure short story, with 18 possible endings. Playable within Browser.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/twine_game/";
+            },},{id: "projects-progress-roll-a-ball",
+          title: 'Progress! Roll-a-Ball 🎮',
+          description: "Unity demo excercise where you play as a ball collecting consumables, dodging enemies.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/unity_game1/";
             },},{id: "projects-text-analysis-visualization",
           title: '📊 Text Analysis Visualization',
           description: "Python project | Data Scraping | Altair",

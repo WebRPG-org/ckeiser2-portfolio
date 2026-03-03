@@ -139,8 +139,8 @@ ninja.data = [{
           description: "Choose your own adventure short story, with 18 possible endings. Playable within Browser.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/twine_game/";
-            },},{id: "projects-progress-roll-a-ball",
-          title: 'Progress! Roll-a-Ball 🎮',
+            },},{id: "projects-in-progress-roll-a-ball",
+          title: 'In Progress! [Roll-a-Ball] 🎮',
           description: "Unity demo excercise where you play as a ball collecting consumables, dodging enemies.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/unity_game1/";

@@ -31,6 +31,7 @@ Welcome to the portfolio! Website was built using "jekyll" an open-source static
 
 Refer to the below for more information on navigating the above tabs:
 
+```md
 ##### projects
 - Refer to the projects tab for a variety of projects across python data analysis and games in different programming languages.
 
@@ -45,3 +46,4 @@ Refer to the below for more information on navigating the above tabs:
 
 ##### ctrl k//search
 - Use this functionality to search for any features.  
+```

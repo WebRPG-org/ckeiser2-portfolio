@@ -1,19 +1,6 @@
 Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
 
-##### projects
-- Refer to the projects tab for a variety of projects across python data analysis and games in different programming languages.
 
-##### repositories
-- Refer to the repositories tab for a summary of repos from my github pages.
-
-##### experience
-- Refer to the experience tab for a table visualization of my experience history and my resume.
-
-##### submenus
-- Refer to submenus for a variety of dropdown tabs that I'll add to overtime.
-
-##### ctrl k//search
-- Use this functionality to search for any features.
 
 <div class="row">
 {% include about/skills.html source=site.data.Game_Design-skills %}

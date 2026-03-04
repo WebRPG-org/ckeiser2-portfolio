@@ -27,4 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the portfolio! Refer to the above tabs for more information. Website was built using "jekyll" an open-source static site generator written in Ruby 💎. 
+Welcome to the portfolio! Website was built using "jekyll" an open-source static site generator written in Ruby 💎. 
+
+Refer to the below for more information on navigating the above tabs:
+
+##### projects
+- Refer to the projects tab for a variety of projects across python data analysis and games in different programming languages.
+
+##### repositories
+- Refer to the repositories tab for a summary of repos from my github pages.
+
+##### experience
+- Refer to the experience tab for a table visualization of my experience history and my resume.
+
+##### submenus
+- Refer to submenus for a variety of dropdown tabs that I'll add to overtime.
+
+##### ctrl k//search
+- Use this functionality to search for any features.  

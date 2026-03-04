@@ -31,17 +31,23 @@ Welcome to the portfolio! Website was built using "jekyll" an open-source static
 
 Refer to the below for more information on navigating the above tabs:
 
-### Projects  
-A curated collection of work across Python data analysis, backend development, and game design.
+#### Projects  
+- A curated collection of work across Python data analysis, backend development, and game design.
+- [projects](https://ckeiser2.github.io/portfolio/projects/)
 
-### Repositories  
-A live overview of my GitHub repositories and featured builds.
+#### Repositories  
+- A live overview of my GitHub repositories and featured builds.
+- [Repos](https://ckeiser2.github.io/portfolio/repositories/)
 
-### Experience  
-A timeline of professional experience and resume details.
+#### Experience  
+- A timeline of professional experience and resume details.
+- [Experience](https://ckeiser2.github.io/portfolio/resume/)
 
-### Submenus  
-Expanded sections and specialized content.
+#### Submenus  
+- Expanded sections and specialized content.
 
-### Search (Ctrl + K)  
-Search the entire site instantly.
+#### Search (Ctrl + K)  
+- Search the entire site instantly.
+
+#### Light/Dark Mode
+- Click on icon to the right of "ctrl k" to change from light -> Dark mode

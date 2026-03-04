@@ -31,8 +31,6 @@ Welcome to the portfolio! Website was built using "jekyll" an open-source static
 
 Refer to the below for more information on navigating the above tabs:
 
-```markdown
-
 ### Projects  
 A curated collection of work across Python data analysis, backend development, and game design.
 
@@ -47,4 +45,3 @@ Expanded sections and specialized content.
 
 ### Search (Ctrl + K)  
 Search the entire site instantly.
-```

@@ -77,6 +77,11 @@ ninja.data = [{
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/barbs_dungeon/";
+            },},{id: "projects-first-ruby-jekyll-portfolio-site",
+          title: 'First Ruby | Jekyll Portfolio Site',
+          description: "Original portfolio site using Ruby&#39;s Jekyll site generator",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/first_port_site/";
             },},{id: "projects-godot-game-2048-knight-️",
           title: '🎮 Godot Game [2048 Knight] 🕹️',
           description: "C# in Godot Engine, Designed the UI and multiple systems.",

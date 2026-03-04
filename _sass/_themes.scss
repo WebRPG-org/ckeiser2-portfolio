@@ -162,10 +162,13 @@ html[data-theme-setting="light"] {
 
 /* Skill bars layout */
 .skill-label {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-bottom: 0.25rem;
 }
 
+.skill-progress-wrapper {
+  max-width: 420px;   /* Adjust to taste */
+}
 .skill-progress {
   height: 6px;              
   margin-bottom: 0.75rem;    
@@ -186,6 +189,9 @@ html[data-theme-setting="light"] {
 }
 
 .skill-level {
-  font-size: 0.6rem;
+  color: var(--global-theme-color);
+  font-size: 0.8rem;
   letter-spacing: 0.02em;
+  font-weight: 500;
+
 }

@@ -170,7 +170,7 @@ html[data-theme-setting="light"] {
 }
 
 .skill-progress-wrapper {
-  max-width: 500px;  
+  max-width: 600px;  /*width*/
 }
 .skill-progress {
   height: 6px;              
@@ -193,5 +193,6 @@ html[data-theme-setting="light"] {
   color: var(--global-theme-color);
   font-size: 0.8rem;
   font-weight: 500;
+  margin: 0;
   white-space: nowrap;   
 }

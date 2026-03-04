@@ -37,11 +37,9 @@ Aside from the current portfolio site this was my first project utilizing the Ru
 
 [Original Portfolio](https://ckeiser2.github.io)
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/old_site.png" title="old site" class="img-fluid rounded z-depth-1" %}
+</div>
 
-<iframe src="{{ site.baseurl }}/assets/img/old_site.png"
-        width="100%"
-        height="800px"
-        frameborder="0"
-        style="border: 1px solid #ccc; border-radius: 8px;">
-</iframe>
 

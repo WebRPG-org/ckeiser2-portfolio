@@ -3,7 +3,7 @@ title: First Ruby | Jekyll Portfolio Site
 #permalink: /games/:name/
 category: ruby 💎
 #tools: [C#, Designer, Programmer, Godot]
-img: assets/pngs/old_site.png
+img: assets/img/old_site.png
 layout: page
 description: Original portfolio site using Ruby's Jekyll site generator
 ---
@@ -37,5 +37,11 @@ Aside from the current portfolio site this was my first project utilizing the Ru
 
 [Original Portfolio](https://ckeiser2.github.io)
 
-<img src="{{ site.baseurl }}/assets/pngs/old_site.png" alt="Original Site">
+
+<iframe src="{{ site.baseurl }}/assets/img/old_site.png"
+        width="100%"
+        height="800px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
 

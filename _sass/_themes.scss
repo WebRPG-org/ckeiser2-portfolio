@@ -176,12 +176,9 @@ html[data-theme-setting="light"] {
 }
 
 .skill-bar {
-  width: 0 !important;
   background-color: var(--global-theme-color);
   border-radius: 3px;
-  transition: width 1.2s ease-out;
 }
-
 
 .skill-name {
   font-size: 1rem;
@@ -191,7 +188,6 @@ html[data-theme-setting="light"] {
 .skill-level {
   color: var(--global-theme-color);
   font-size: 0.8rem;
-  letter-spacing: 0.02em;
   font-weight: 500;
 
 }

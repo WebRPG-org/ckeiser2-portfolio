@@ -32,18 +32,19 @@ Welcome to the portfolio! Website was built using "jekyll" an open-source static
 Refer to the below for more information on navigating the above tabs:
 
 ```md
-##### projects
-- Refer to the projects tab for a variety of projects across python data analysis and games in different programming languages.
 
-##### repositories
-- Refer to the repositories tab for a summary of repos from my github pages.
+### Projects  
+A curated collection of work across Python data analysis, backend development, and game design.
 
-##### experience
-- Refer to the experience tab for a table visualization of my experience history and my resume.
+### Repositories  
+A live overview of my GitHub repositories and featured builds.
 
-##### submenus
-- Refer to submenus for a variety of dropdown tabs that I'll add to overtime.
+### Experience  
+A timeline of professional experience and resume details.
 
-##### ctrl k//search
-- Use this functionality to search for any features.  
+### Submenus  
+Expanded sections and specialized content.
+
+### Search (Ctrl + K)  
+Search the entire site instantly.
 ```

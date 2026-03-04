@@ -162,6 +162,9 @@ html[data-theme-setting="light"] {
 
 /* Skill bars layout */
 .skill-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   font-size: 1rem;
   margin-bottom: 0.25rem;
 }
@@ -183,11 +186,12 @@ html[data-theme-setting="light"] {
 .skill-name {
   font-size: 1rem;
   font-weight: 500;
+  margin: 0;
 }
 
 .skill-level {
   color: var(--global-theme-color);
   font-size: 0.8rem;
   font-weight: 500;
-
+  white-space: nowrap;   
 }

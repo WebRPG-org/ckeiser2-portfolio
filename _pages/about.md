@@ -32,7 +32,7 @@ Welcome to the portfolio! Website was built using "jekyll" an open-source static
 Refer to the below for more information on navigating the above tabs:
 
 ##### **[Projects](https://ckeiser2.github.io/portfolio/projects/)**
-- A curated collection of work across Python data analysis, backend development, and game design.
+- A collection of projects across a variety of languages and practices.
 
 ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
 - A live overview of my GitHub repositories and featured builds.

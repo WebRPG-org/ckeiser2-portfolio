@@ -35,7 +35,7 @@ Aside from the current portfolio site this was my first project utilizing the Ru
 - Search
     - Added search and dropdown bar functionality.
 
-[Original Portfolio](https://ckeiser2.github.io)
+Link: -> [Original Portfolio](https://ckeiser2.github.io)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

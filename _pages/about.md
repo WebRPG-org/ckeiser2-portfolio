@@ -38,13 +38,13 @@ Refer to the below for more information on navigating the above tabs:
 - A live overview of my GitHub repositories and featured builds.
 
 #### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
-- A timeline of professional experience and resume details.
+- A timeline of professional experience and resume.
 
 #### **Submenus**
-- Expanded sections and specialized content.
+- Dropdown menu with more misc tabs.
 
 #### **Search (Ctrl + K)**
-- Search the entire site instantly.
+- Search functionality for the entire site.
 
 #### **Light/Dark Mode**
-- Click on icon to the right of "ctrl k" to change from light -> Dark mode
+- Click on icon to the right of "ctrl k" to change from light -> Dark mode.

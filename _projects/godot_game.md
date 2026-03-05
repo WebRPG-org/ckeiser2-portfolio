@@ -24,6 +24,18 @@ Group project using Godot (A game engine that uses C#) where I served as lead de
     allowfullscreen>
 </iframe>
 
+
+##### Link to google drive w/ Design Docs
+<div class="left">
+{% include elements/button.html link="https://drive.google.com/drive/folders/1K3kAyzcWXABthIY7s9kPn_uHCcTR0HU6?usp=sharing" text="Google Drive with Design Documents" %}
+</div>
+
+##### Link to github repo/ project code
+<div class="right">
+{% include elements/button.html link="https://github.com/ckeiser2/2048-Knight" text="Github Repo" %}
+</div>
+
+
 ### 🛠 Scripts I wrote
 
 As the designer I aided in the completion of our design documents but additionally, with my technical background, implemented a few core systems to aid the developers on the team including the pause/quit menu, item and inventory systems.
@@ -483,12 +495,3 @@ func refresh_style():
 		set('custom_styles/panel', default_style)
 ```
 
-##### Link to google drive w/ Design Docs
-<div class="left">
-{% include elements/button.html link="https://drive.google.com/drive/folders/1K3kAyzcWXABthIY7s9kPn_uHCcTR0HU6?usp=sharing" text="Google Drive with Design Documents" %}
-</div>
-
-##### Link to github repo/ project code
-<div class="right">
-{% include elements/button.html link="https://github.com/LukeAlbarracin/2048-Knight/tree/main" text="Github Repo" %}
-</div>

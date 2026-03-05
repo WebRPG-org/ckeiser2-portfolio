@@ -42,7 +42,7 @@ jekyll-minifier:
 
 # repo color theme
 repo_theme_light: city_lights # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: neon # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: github_dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy

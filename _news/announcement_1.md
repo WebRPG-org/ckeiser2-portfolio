@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Release of portfolio
+Release of portfolio 2.0 (Current Site)

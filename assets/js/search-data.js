@@ -69,8 +69,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/wizzywig/";
-            },},{id: "news-release-of-portfolio",
-          title: 'Release of portfolio',
+            },},{id: "news-release-of-portfolio-2-0-current-site",
+          title: 'Release of portfolio 2.0 (Current Site)',
           description: "",
           section: "News",},{id: "projects-barb-39-s-dungeon-️-️",
           title: '🎮 Barb&amp;#39;s Dungeon 🖋️ 🕹️',

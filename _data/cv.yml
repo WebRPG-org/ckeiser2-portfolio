@@ -74,6 +74,11 @@
       items:
         - Data Analysis
         - Machine Learning
+    - title: IT Audit
+      items:
+        - NIST CSF Assessments
+        - IT SOX Control Testing
+        - ITGC Control Testing
 
 - title: Misc Interests
   type: list

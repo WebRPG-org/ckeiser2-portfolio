@@ -5,7 +5,7 @@ category: python 🐍
 layout: page
 #tools: [Python, Machine Learning]
 img: assets/pngs/ml.png
-description: Training a model and creating a visualization based on "Confidence" of the model using tweets from the president.
+description: Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.
 
 ---
 

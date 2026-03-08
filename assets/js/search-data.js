@@ -89,7 +89,7 @@ ninja.data = [{
               window.location.href = "/portfolio/projects/godot_game/";
             },},{id: "projects-machine-learning-via-tweets",
           title: 'Machine Learning via Tweets 🤖 🧠',
-          description: "Training a model and creating a visualization based on &quot;Confidence&quot; of the model using tweets from the president.",
+          description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/machine_learning/";
             },},{id: "projects-network-clustering-analysis",

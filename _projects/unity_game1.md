@@ -11,25 +11,41 @@ category: games 🎮
 
 ** Developed in Unity 6.3 LTS **  
 
+In Progress V0.00.01 demonstration of scripts below:
+
+<iframe src="{{ site.baseurl }}/assets/video/ball_demo_v0.01.mp4"
+        width="100%"
+        height="800px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
 In progress PlayerController.cs script handles player movement and physics.
 
 ```cs
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using TMPro;
+
 
 public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
+    public TextMeshProUGUI countText;
     private Rigidbody rb;
     private float movementX;
     private float movementY;
+    // Count variable for UI to keep track of collectibles
+    private int count;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        count = 0;
+
+        SetCountText();
 
     }
     void OnMove(InputValue movementValue)
@@ -38,6 +54,11 @@ public class PlayerController : MonoBehaviour
 
         movementX = movementVector.x; 
         movementY = movementVector.y; 
+    }
+
+    void SetCountText()
+    {
+        countText.text = "Count: " + count.ToString();
     }
     void FixedUpdate()
     {
@@ -52,11 +73,15 @@ public class PlayerController : MonoBehaviour
         if(other.gameObject.CompareTag("PickUp"))
         {
             other.gameObject.SetActive(false);
+            count = count + 1;
+
+            SetCountText();
         }
         
     }
     
 }
+
 
 ```
 

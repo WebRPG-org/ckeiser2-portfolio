@@ -6,9 +6,11 @@ weight: 3
 nav: false
 ---
 
+--- 
+
 ### Gaming
 
-My top ranks in the following online games
+**My top ranks in the following online games:**
 
 - Overwatch: Diamond
 
@@ -24,7 +26,7 @@ My top ranks in the following online games
 
 ---
 
-My favorite games list:
+**My favorite games list:**
 
 - Pikmin series (Gamecube, Wii, Wii U, Switch)
 

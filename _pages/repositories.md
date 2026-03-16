@@ -53,7 +53,7 @@ nav_order: 4
 
 *Notes*: 
 - Most code found in "Jupyter Notebooks" would be Python.
-- Removed tracking of html, css, and scss as two projects are portfolios, did not want to skew the numbers.
+- Removed tracking of html, css, liquid and scss as two projects are portfolios, did not want to skew the numbers.
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_langs.liquid username=site.repo_langs.username %}

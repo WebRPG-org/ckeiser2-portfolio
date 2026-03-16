@@ -19,4 +19,7 @@ children:
 #  - title: divider
   - title: site analytics
     permalink: /analytics/
+  - title: divider
+  - title: fun facts
+    permalink: /facts/
 ---

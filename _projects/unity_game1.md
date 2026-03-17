@@ -29,8 +29,8 @@ In Progress V0.00.02 expanding scripts and start of level design and finishing o
 </iframe>
 
 In progress PlayerController.cs script handles player movement and physics and contact with enemies.
+{% highlight cs linenos %}
 
-```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -114,13 +114,15 @@ public class PlayerController : MonoBehaviour
     }
     
 }
+{% endhighlight %}
 
-```
 
-Camera follows player movement, as player is a ball ensures camera does not rotate with the balls rotation.
+{% highlight cs linenos %}
 
-CameraController.cs
-```cs
+// Camera follows player movement, as player is a ball ensures camera does not rotate with the balls rotation.
+
+// CameraController.cs
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -140,12 +142,14 @@ public class CameraController : MonoBehaviour
         transform.position = player.transform.position + offset;
     }
 }
-```
+{% endhighlight %}
 
 Rotator.cs
-For the collectibles in the game, to give a visual *Pop* we have this simple rotating script.
 
-```cs
+{% highlight cs linenos %}
+
+// For the collectibles in the game, to give a visual *Pop* we have this simple rotating script.
+
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
@@ -160,12 +164,13 @@ public class Rotator : MonoBehaviour
         transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
     }
 }
-```
+{% endhighlight %}
 
 EnemyMovement.cs
 
-Script for an enemy tracking player movement within a mesh
-```cs
+{% highlight cs linenos %}
+
+// Script for an enemy tracking player movement within a mesh
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -190,4 +195,3 @@ public class EnemyMovement : MonoBehaviour
         }
     }
 }
-```

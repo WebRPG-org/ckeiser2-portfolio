@@ -67,18 +67,6 @@ The **Customization Agent** helps you personalize your al-folio website by:
 
 See [CUSTOMIZE.md § GitHub Copilot Customization Agent](CUSTOMIZE.md#github-copilot-customization-agent) for detailed usage instructions.
 
-### Documentation Agent
-
-The **Documentation Agent** maintains clear and up-to-date project documentation by:
-
-- Updating documentation files when features change
-- Writing in a style accessible to academics and researchers
-- Keeping documentation synchronized with the codebase
-- Following documentation best practices
-
-See [CONTRIBUTING.md § GitHub Copilot Agents](CONTRIBUTING.md#github-copilot-agents) for more information.
-
-> **Requirements:** Both agents require a [GitHub Copilot](https://github.com/features/copilot) subscription. For more information about GitHub Copilot and how to use agents, see the [GitHub Copilot documentation](https://docs.github.com/en/copilot).
 
 ## Features
 
@@ -101,13 +89,6 @@ What this means is, if there is no resume data defined in [\_config.yml](_config
 
 [![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
 
----
-
-### People
-
-You can create a people page if you want to feature more than one person. Each person can have its own short bio, profile picture, and you can also set if every person will appear at the same or opposite sides.
-
-[![People Preview](readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
 
 ---
 

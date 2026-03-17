@@ -15,7 +15,15 @@ In Progress V0.00.01 demonstration of scripts below:
 
 <iframe src="{{ site.baseurl }}/assets/video/ball_demo_v0.01.mp4"
         width="100%"
-        height="800px"
+        height="600px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
+In Progress V0.00.02 expanding scripts and start of level design and finishing of gameplay loop:
+<iframe src="{{ site.baseurl }}/assets/video/demov.2.mp4"
+        width="100%"
+        height="600px"
         frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>

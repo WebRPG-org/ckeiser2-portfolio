@@ -28,7 +28,7 @@ In Progress V0.00.02 expanding scripts and start of level design and finishing o
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 
-In progress PlayerController.cs script handles player movement and physics.
+In progress PlayerController.cs script handles player movement and physics and contact with enemies.
 
 ```cs
 using System.Collections;

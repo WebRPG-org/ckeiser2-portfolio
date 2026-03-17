@@ -11,6 +11,7 @@
 <span class="p">{</span>
     <span class="k">public</span> <span class="kt">float</span> <span class="n">speed</span> <span class="p">=</span> <span class="m">0</span><span class="p">;</span>
     <span class="k">public</span> <span class="n">TextMeshProUGUI</span> <span class="n">countText</span><span class="p">;</span>
+    <span class="k">public</span> <span class="n">GameObject</span> <span class="n">winTextObject</span><span class="p">;</span>
     <span class="k">private</span> <span class="n">Rigidbody</span> <span class="n">rb</span><span class="p">;</span>
     <span class="k">private</span> <span class="kt">float</span> <span class="n">movementX</span><span class="p">;</span>
     <span class="k">private</span> <span class="kt">float</span> <span class="n">movementY</span><span class="p">;</span>
@@ -24,8 +25,11 @@
 
         <span class="nf">SetCountText</span><span class="p">();</span>
 
+
+        <span class="n">winTextObject</span><span class="p">.</span><span class="nf">SetActive</span><span class="p">(</span><span class="k">false</span><span class="p">);</span>
+
     <span class="p">}</span>
-    <span class="k">void</span> <span class="nf">OnMove</span><span class="p">(</span><span class="n">InputValue</span> <span class="n">movementValue</span><span class="p">)</span>
+    <span class="k">private</span> <span class="k">void</span> <span class="nf">OnMove</span><span class="p">(</span><span class="n">InputValue</span> <span class="n">movementValue</span><span class="p">)</span>
     <span class="p">{</span>
         <span class="n">Vector2</span> <span class="n">movementVector</span> <span class="p">=</span> <span class="n">movementValue</span><span class="p">.</span><span class="n">Get</span><span class="p">&lt;</span><span class="n">Vector2</span><span class="p">&gt;();</span>
 
@@ -33,15 +37,36 @@
         <span class="n">movementY</span> <span class="p">=</span> <span class="n">movementVector</span><span class="p">.</span><span class="n">y</span><span class="p">;</span> 
     <span class="p">}</span>
 
-    <span class="k">void</span> <span class="nf">SetCountText</span><span class="p">()</span>
+    <span class="k">private</span> <span class="k">void</span> <span class="nf">SetCountText</span><span class="p">()</span>
     <span class="p">{</span>
         <span class="n">countText</span><span class="p">.</span><span class="n">text</span> <span class="p">=</span> <span class="s">"Count: "</span> <span class="p">+</span> <span class="n">count</span><span class="p">.</span><span class="nf">ToString</span><span class="p">();</span>
+
+        <span class="k">if</span><span class="p">(</span><span class="n">count</span> <span class="p">&gt;=</span> <span class="m">13</span><span class="p">)</span>
+        <span class="p">{</span>
+            <span class="n">winTextObject</span><span class="p">.</span><span class="nf">SetActive</span><span class="p">(</span><span class="k">true</span><span class="p">);</span>
+
+            <span class="c1">// Destroy enemy</span>
+            <span class="nf">Destroy</span><span class="p">(</span><span class="n">GameObject</span><span class="p">.</span><span class="nf">FindGameObjectWithTag</span><span class="p">(</span><span class="s">"Enemy"</span><span class="p">));</span>
+        <span class="p">}</span>
     <span class="p">}</span>
-    <span class="k">void</span> <span class="nf">FixedUpdate</span><span class="p">()</span>
+    <span class="k">private</span> <span class="k">void</span> <span class="nf">FixedUpdate</span><span class="p">()</span>
     <span class="p">{</span>
         <span class="n">Vector3</span> <span class="n">movement</span> <span class="p">=</span> <span class="k">new</span> <span class="nf">Vector3</span><span class="p">(</span><span class="n">movementX</span><span class="p">,</span> <span class="m">0.0f</span><span class="p">,</span> <span class="n">movementY</span><span class="p">);</span>
         <span class="n">rb</span><span class="p">.</span><span class="nf">AddForce</span><span class="p">(</span><span class="n">movement</span> <span class="p">*</span> <span class="n">speed</span><span class="p">);</span>
 
+    <span class="p">}</span>
+
+    <span class="k">private</span> <span class="k">void</span> <span class="nf">OnCollisionEnter</span><span class="p">(</span><span class="n">Collision</span> <span class="n">collision</span><span class="p">)</span>
+    <span class="p">{</span>
+       <span class="k">if</span> <span class="p">(</span><span class="n">collision</span><span class="p">.</span><span class="n">gameObject</span><span class="p">.</span><span class="nf">CompareTag</span><span class="p">(</span><span class="s">"Enemy"</span><span class="p">))</span>
+       <span class="p">{</span>
+           <span class="c1">// Destroy the current object</span>
+           <span class="nf">Destroy</span><span class="p">(</span><span class="n">gameObject</span><span class="p">);</span> 
+           
+           <span class="c1">// Update the winText to display "You Lose!"</span>
+           <span class="n">winTextObject</span><span class="p">.</span><span class="n">gameObject</span><span class="p">.</span><span class="nf">SetActive</span><span class="p">(</span><span class="k">true</span><span class="p">);</span>
+           <span class="n">winTextObject</span><span class="p">.</span><span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">TextMeshProUGUI</span><span class="p">&gt;().</span><span class="n">text</span> <span class="p">=</span> <span class="s">"You Lose!"</span><span class="p">;</span>
+       <span class="p">}</span>
     <span class="p">}</span>
 
     <span class="c1">// On contact will disable game objects with "PickUp" tag. Aka our collectibles in the demo.</span>
@@ -58,7 +83,6 @@
     <span class="p">}</span>
     
 <span class="p">}</span>
-
 
 </code></pre></div></div> <p>Camera follows player movement, as player is a ball ensures camera does not rotate with the balls rotation.</p> <p>CameraController.cs</p> <div class="language-cs highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">using</span> <span class="nn">System.Collections</span><span class="p">;</span>
 <span class="k">using</span> <span class="nn">System.Collections.Generic</span><span class="p">;</span>

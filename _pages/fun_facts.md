@@ -53,23 +53,20 @@ nav: false
 ---
 
 ### PC Specs
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-
-</div>
-<div class="caption">
-    PC after about 3 remodals
-</div>
+<iframe src="{{ site.baseurl }}/assets/img/pc.jpg"
+        width="100%"
+        height="800px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
 
 ```md
-CPU: AMD Ryzen 7 2700X
-GPU: Nvidia GeForce RTX 3060
-Memory: 32GB; 3200MHz
-Storage: WD_Black M.2 SSD, 2TB
-Storage.2: Samsung SSD 860EVO, 1TB
-Motherboard: B450 MSI Tomahawk
+- CPU: AMD Ryzen 7 2700X
+- GPU: Nvidia GeForce RTX 3060
+- Memory: 32GB; 3200MHz
+- Storage: WD_Black M.2 SSD, 2TB
+- Storage.2: Samsung SSD 860EVO, 1TB
+- Motherboard: B450 MSI Tomahawk
 ```
 
 ---

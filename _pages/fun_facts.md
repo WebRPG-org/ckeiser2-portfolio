@@ -54,9 +54,7 @@ nav: false
 
 ### PC Specs
 <iframe src="{{ site.baseurl }}/assets/img/pc.jpg"
-        width="100%"
         height="400px"
-        frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 

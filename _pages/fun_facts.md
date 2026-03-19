@@ -10,9 +10,9 @@ nav: false
 
 ### Gaming
 
-```md
 **My top ranks in the following online games:**
 
+```md
 - Overwatch: Diamond
 
 - League of Legends: Platinum

@@ -51,7 +51,7 @@ nav_order: 4
 {% if site.repo_langs.enabled %}
 ## **Top Languages in Repositories**
 
-*Notes*: 
+***Notes:*** 
 - Most code found in "Jupyter Notebooks" would be Python.
 - Removed tracking of html, css, shell, GAP, liquid and scss as two projects are portfolios, did not want to skew the numbers.
 

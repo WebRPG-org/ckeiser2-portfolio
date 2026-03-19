@@ -10,6 +10,7 @@ nav: false
 
 ### Gaming
 
+```md
 **My top ranks in the following online games:**
 
 - Overwatch: Diamond
@@ -23,11 +24,13 @@ nav: false
 - Valorant: Gold
 
 - Marathon: TBD
+```
 
 ---
 
 **My favorite games list:**
 
+```md
 - Pikmin series (Gamecube, Wii, Wii U, Switch)
 
 - Hollow Knight (Steam)
@@ -45,6 +48,7 @@ nav: false
 - Smash Bros. Series (Multiple Nintendo Consoles)
 
 - Rivals of Aether series (steam)
+```
 
 ---
 
@@ -68,6 +72,8 @@ Storage.2: Samsung SSD 860EVO, 1TB
 Motherboard: B450 MSI Tomahawk
 ```
 
+---
+
 ### Weightlifting 
 
 - Bench PR: 245lbs
@@ -76,15 +82,19 @@ Motherboard: B450 MSI Tomahawk
 
 - Deadlift PR: 405lbs
 
+---
+
 ### Taco Bell Order
 
-2 Grilled Cheese Burritos
-Large Diet Pepsi or Baja Blast
+- 2 Grilled Cheese Burritos
+- Large Diet Pepsi or Baja Blast
+
+---
 
 ### Mcdonald's order
 
-3 McChickens
-or 
-2 McChickens and 1 McDouble
-or 
-2 McDoubles and 1 McChicken
+- 3 McChickens
+    - or 
+- 2 McChickens and 1 McDouble
+    - or 
+- 2 McDoubles and 1 McChicken

@@ -76,4 +76,15 @@ Motherboard: B450 MSI Tomahawk
 
 - Deadlift PR: 405lbs
 
+### Taco Bell Order
 
+2 Grilled Cheese Burritos
+Large Diet Pepsi or Baja Blast
+
+### Mcdonald's order
+
+3 McChickens
+or 
+2 McChickens and 1 McDouble
+or 
+2 McDoubles and 1 McChicken

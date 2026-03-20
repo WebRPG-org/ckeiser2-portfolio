@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-all-projects",
           title: "all projects",
-          description: "A growing collection of projects in gaming and various programming languages.",
+          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/projects/";

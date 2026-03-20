@@ -2,7 +2,7 @@
 layout: page
 title: all projects
 permalink: /projects/
-description: A growing collection of projects in gaming and various programming languages.
+description: A growing collection of projects in gaming and various programming languages. Seperated currently by "Games", "Python", and "Ruby" sections.
 nav: true
 nav_order: 2
 display_categories: [games 🎮,python 🐍,ruby 💎]

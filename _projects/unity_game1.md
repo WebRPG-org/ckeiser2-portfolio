@@ -15,7 +15,7 @@ In Progress V0.00.01 demonstration of scripts below:
 
 <iframe src="{{ site.baseurl }}/assets/video/ball_demo_v0.01.mp4"
         width="100%"
-        height="600px"
+        height="400px"
         frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
@@ -25,7 +25,7 @@ In Progress V0.00.01 demonstration of scripts below:
 In Progress V0.00.02 expanding scripts and start of level design and finishing of gameplay loop:
 <iframe src="{{ site.baseurl }}/assets/video/demov.2.mp4"
         width="100%"
-        height="600px"
+        height="400px"
         frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
@@ -37,7 +37,7 @@ In progress V0.00.03 Experimenting with level design for first level and LOS(Lin
 - Area of detection represented by greyish transparent area around enemies for visibility during testing.
 <iframe src="{{ site.baseurl }}/assets/video/demo3.mp4"
         width="100%"
-        height="600px"
+        height="400px"
         frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>

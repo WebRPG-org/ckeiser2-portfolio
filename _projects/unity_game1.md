@@ -2,7 +2,7 @@
 layout: page
 title: In Progress! [Roll-a-Ball] 🎮
 description: Unity demo excercise where you play as a ball collecting consumables, dodging enemies.
-img:
+img: assets/pngs/v3.png
 category: games 🎮
 
 

@@ -125,11 +125,12 @@ public class PlayerController : MonoBehaviour
 
 ```
 
+CameraController.cs
 ```cs
 
 // Camera follows player movement, as player is a ball ensures camera does not rotate with the balls rotation.
 
-// CameraController.cs
+
 
 using System.Collections;
 using System.Collections.Generic;
@@ -365,4 +366,4 @@ public class FieldOfView : MonoBehaviour
         return angle;
     }
 }
-``
+```

@@ -1,6 +1,3 @@
-// In progress PlayerController.cs script handles player movement and physics and contact with enemies.
-
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

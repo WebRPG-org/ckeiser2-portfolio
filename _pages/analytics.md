@@ -14,7 +14,7 @@ Using google tag manager the accumulated analytics from this site from Feb - Mar
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/pngs/analytics2.png" title="analytics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/analytics2.png" title="analytics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

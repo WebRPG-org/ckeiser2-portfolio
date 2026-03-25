@@ -1,6 +1,7 @@
 ---
 layout: profiles
 title: Fun Facts
+description: Page with some fun facts about me!
 permalink: /facts/
 nav: false
 nav_order: 4

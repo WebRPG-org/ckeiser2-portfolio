@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: profiles
 title: Fun Facts
+description: Some fun trivia about myself!!
 permalink: /facts/
 weight: 3
 nav: false

@@ -5,24 +5,16 @@
 
 # Named Entity Recognition (NER) will help us computationally identify people, places, and things (of various kinds) in a text or collection of texts. It is useful for extracting key information from texts. You might use NER to identify the most frequently appearing characters in a novel or build a network of characters (related to network analysis), or you might use NER to identify the geographic locations mentioned in texts, a first step toward mapping the locations (related to spatial analysis).
 
-# In[16]:
+# In[1]:
 
 
 # Install spaCy for NER and other Natural Language Processing (NLP) tasks
-
-#get_ipython().system('pip install numpy==1.26.4')
-#get_ipython().system('pip install "spacy==3.7.2"')
-#get_ipython().system('C:\\Users\\colto\\anaconda3\\python.exe -m pip install -U pip setuptools wheel')
-#get_ipython().system('pip install requests_mock')
-#get_ipython().system('pip install clyent==1.2.1')
-#get_ipython().system('pip install PyYAML==6.0.1')
-
-
+get_ipython().system('pip install -U spacy')
 
 
 # spaCy relies on machine learning models that were trained on a large amount of carefully-labeled texts. The English-language spaCy model that we’re going to use was trained on an annotated corpus called "OntoNotes": 2 million+ words drawn from "news, broadcast, talk shows, weblogs, usenet newsgroups, and conversational telephone speech," which were meticulously tagged by a group of researchers and professionals for people’s names and places, for nouns and verbs, for subjects and objects, and much more.
 
-# In[13]:
+# In[2]:
 
 
 import spacy
@@ -31,11 +23,11 @@ from collections import Counter # counting the results
 import pandas as pd # dealing with dataframe
 
 
-# In[5]:
+# In[3]:
 
 
 # Download the English-language model
-#get_ipython().system('python -m spacy download en_core_web_sm')
+get_ipython().system('python -m spacy download en_core_web_sm')
 
 
 # In[4]:
@@ -61,7 +53,7 @@ movie
 print(movie['lines'][0])
 
 
-# In[17]:
+# In[7]:
 
 
 # Visualize the name entity spaCy recognizes (note that the results are not perfect)
@@ -71,14 +63,14 @@ displacy.render(document, style="ent")
 
 # # Exploring Different Types of Entities
 
-# In[18]:
+# In[8]:
 
 
 # Count and sort the number of characters with lines of each movie
 movie.groupby('mname')['mid'].count().sort_values(ascending=False)
 
 
-# In[19]:
+# In[9]:
 
 
 # Count the number of entities in the lines of the characters in the movie magnolia
@@ -93,7 +85,7 @@ for line in movie[movie['mname']=='magnolia']['lines']: # loop through the lines
         ent_types[label][text] += 1 # count the number of times we see each example
 
 
-# In[20]:
+# In[10]:
 
 
 # Count of each type of entities
@@ -101,14 +93,14 @@ for etype, examples in ent_types.items():
     print(etype, len(examples))
 
 
-# In[21]:
+# In[11]:
 
 
 # Explain the entity type "PERSON"
 spacy.explain('PERSON')
 
 
-# In[22]:
+# In[12]:
 
 
 # Get all people

@@ -307,7 +307,7 @@ tfidf_df2.sort_values(by=['document','tfidf'], ascending=[True,False]).groupby([
 
 
 # for declarative statistical visualization
-get_ipython().system('pip install altair')
+#get_ipython().system('pip install altair')
 
 
 # In[26]:
@@ -373,7 +373,7 @@ text = base.mark_text(baseline='middle').encode(
 
 
 # Install VADER Sentiment analysis
-get_ipython().system('pip install vaderSentiment')
+#get_ipython().system('pip install vaderSentiment')
 
 
 # In[28]:

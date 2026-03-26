@@ -23,7 +23,7 @@ document.read()
 
 # Installing lxml, if it hasn't been installed
 # lxml is used for parsing and manipulating XML and HTML documents
-get_ipython().system('pip install lxml')
+#get_ipython().system('pip install lxml')
 
 
 # In[4]:

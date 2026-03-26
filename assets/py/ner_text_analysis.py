@@ -10,12 +10,12 @@
 
 # Install spaCy for NER and other Natural Language Processing (NLP) tasks
 
-get_ipython().system('pip install numpy==1.26.4')
-get_ipython().system('pip install "spacy==3.7.2"')
-get_ipython().system('C:\\Users\\colto\\anaconda3\\python.exe -m pip install -U pip setuptools wheel')
-get_ipython().system('pip install requests_mock')
-get_ipython().system('pip install clyent==1.2.1')
-get_ipython().system('pip install PyYAML==6.0.1')
+#get_ipython().system('pip install numpy==1.26.4')
+#get_ipython().system('pip install "spacy==3.7.2"')
+#get_ipython().system('C:\\Users\\colto\\anaconda3\\python.exe -m pip install -U pip setuptools wheel')
+#get_ipython().system('pip install requests_mock')
+#get_ipython().system('pip install clyent==1.2.1')
+#get_ipython().system('pip install PyYAML==6.0.1')
 
 
 
@@ -35,7 +35,7 @@ import pandas as pd # dealing with dataframe
 
 
 # Download the English-language model
-get_ipython().system('python -m spacy download en_core_web_sm')
+#get_ipython().system('python -m spacy download en_core_web_sm')
 
 
 # In[4]:

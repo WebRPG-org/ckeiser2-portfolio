@@ -10,7 +10,7 @@
 
 # Installing nltk for generating stop words. Stop words are commonly used words (such as "the", "a", "an", "in")
 # that we want our topic models to ignore (as they are not suggestive to "topics")
-get_ipython().system(' pip install nltk')
+#get_ipython().system(' pip install nltk')
 
 
 # In[2]:
@@ -37,7 +37,7 @@ from gensim.models import CoherenceModel
 
 # Plotting tools
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[4]:

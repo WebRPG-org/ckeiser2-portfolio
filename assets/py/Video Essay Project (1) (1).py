@@ -7,7 +7,7 @@
 import pandas as pd
 import numpy as np
 import re
-get_ipython().system(' pip install nltk')
+#get_ipython().system(' pip install nltk')
 import nltk
 nltk.download('stopwords')
 # Gensim, for topic modeling
@@ -18,7 +18,7 @@ from gensim.models import CoherenceModel
 
 # Plotting tools
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[3]:
@@ -74,7 +74,7 @@ tfidf_df.sort_values(by=['document','tfidf'], ascending=[True,False]).groupby(['
 # In[7]:
 
 
-get_ipython().system('pip install altair')
+#get_ipython().system('pip install altair')
 
 
 # In[8]:

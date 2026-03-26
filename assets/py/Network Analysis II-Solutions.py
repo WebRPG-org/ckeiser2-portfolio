@@ -118,14 +118,14 @@ networkx.transitivity(G_b3)
 
 
 # Changing bokeh version because the latest version will result in bugs in network visualization
-get_ipython().system('pip install bokeh==2.4.3')
+#get_ipython().system('pip install bokeh==2.4.3')
 
 
 # In[15]:
 
 
 # Check the bokeh version. It should be 2.4.3.
-get_ipython().system('pip show bokeh')
+#get_ipython().system('pip show bokeh')
 
 
 # In[16]:

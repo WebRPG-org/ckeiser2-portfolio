@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[3]:
 
 
 import pandas as pd
 import numpy as np
 import re
-#get_ipython().system(' pip install nltk')
+get_ipython().system(' pip install nltk')
 import nltk
 nltk.download('stopwords')
 # Gensim, for topic modeling
@@ -18,10 +18,10 @@ from gensim.models import CoherenceModel
 
 # Plotting tools
 import matplotlib.pyplot as plt
-#get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline')
 
 
-# In[3]:
+# In[ ]:
 
 
 df = pd.read_csv("Data/YoutubeVideoEssayProject.csv")
@@ -29,7 +29,7 @@ df = df.drop(columns ="Unnamed: 9")
 df
 
 
-# In[4]:
+# In[ ]:
 
 
 #cleaned text in df
@@ -52,7 +52,7 @@ df["Description"] = clean_text(df["Description"])
 df
 
 
-# In[5]:
+# In[ ]:
 
 
 # Initialize TfidfVectorizer, using English stopwords and converting words to lowercase
@@ -60,7 +60,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 tfidf_vectorizer = TfidfVectorizer(stop_words='english', lowercase=True)
 
 
-# In[6]:
+# In[ ]:
 
 
 tfidf_matrix = tfidf_vectorizer.fit_transform(df['Transcript']) # Generate a matrix
@@ -71,13 +71,13 @@ tfidf_df = tfidf_df.rename(columns={0:'tfidf', 'Title': 'document','level_1': 't
 tfidf_df.sort_values(by=['document','tfidf'], ascending=[True,False]).groupby(['document']).head(1)
 
 
-# In[7]:
+# In[ ]:
 
 
-#get_ipython().system('pip install altair')
+get_ipython().system('pip install altair')
 
 
-# In[8]:
+# In[ ]:
 
 
 # Some fancy visualizations to highlight the words with highest TF-IDF score in each inaugural address

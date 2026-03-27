@@ -438,7 +438,7 @@ data_early_1830s
 
 
 # Install required library bokeh
-get_ipython().system('pip install bokeh')
+#get_ipython().system('pip install bokeh')
 
 
 # In[54]:

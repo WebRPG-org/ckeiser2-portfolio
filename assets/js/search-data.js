@@ -84,8 +84,8 @@ ninja.data = [{
           description: "2D Unity demo [In Progress]",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/2d_unity/";
-            },},{id: "projects-barb-39-s-dungeon-️-️",
-          title: '🎮 Barb&amp;#39;s Dungeon 🖋️ 🕹️',
+            },},{id: "projects-design-barb-39-s-dungeon-️-️",
+          title: '🎮 [Design] Barb&amp;#39;s Dungeon 🖋️ 🕹️',
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/barbs_dungeon/";

@@ -109,11 +109,6 @@ ninja.data = [{
           description: "Python project utilizing networkx",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/network_visual_project/";
-            },},{id: "projects-tf-idf-text-analysis",
-          title: '📊 TF-IDF Text Analysis',
-          description: "Python project text analysis using TF-IDF",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/pres_speech_analysis/";
             },},{id: "projects-python-interactive-data-visualization",
           title: '📊 Python Interactive Data Visualization',
           description: "Using Python and packages like Altair | Data Analytics | Data Visualization",

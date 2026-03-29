@@ -11,6 +11,8 @@ category: games 🎮
 
 ** Developed in Unity 6.3 LTS **  
 
+Role: Solo Developer
+
 In Progress V0.00.01 demonstration of scripts below:
 
 <iframe src="{{ site.baseurl }}/assets/video/ball_demo_v0.01.mp4"

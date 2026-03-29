@@ -10,3 +10,5 @@ category: games 🎮
 ##### Work in progress using Unity Learn as an aid for this project.
 
 **In the process of updating soon, still early in development**
+
+Role: Solo Developer

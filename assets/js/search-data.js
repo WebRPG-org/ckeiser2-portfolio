@@ -79,7 +79,12 @@ ninja.data = [{
             },},{id: "news-release-of-portfolio-2-0-current-site",
           title: 'Release of portfolio 2.0 (Current Site)',
           description: "",
-          section: "News",},{id: "projects-barb-39-s-dungeon-️-️",
+          section: "News",},{id: "projects-in-progress-space-invaders",
+          title: 'In Progress! [Space Invaders] 🎮',
+          description: "2D Unity demo [In Progress]",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/2d_unity/";
+            },},{id: "projects-barb-39-s-dungeon-️-️",
           title: '🎮 Barb&amp;#39;s Dungeon 🖋️ 🕹️',
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {

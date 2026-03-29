@@ -9,4 +9,4 @@ category: games 🎮
 ---
 ##### Work in progress using Unity Learn as an aid for this project.
 
-**Updating**
+**In the process of updating soon, still early in development**

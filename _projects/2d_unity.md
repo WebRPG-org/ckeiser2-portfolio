@@ -12,3 +12,10 @@ category: games 🎮
 **In the process of updating soon, still early in development**
 
 Role: Solo Developer
+
+<iframe src="{{ site.baseurl }}/assets/video/poc_u2.mp4"
+        width="100%"
+        height="400px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>

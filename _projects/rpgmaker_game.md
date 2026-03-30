@@ -24,14 +24,6 @@ Link to Blog: https://ckeiser2.github.io/blog/rpg_maker_dev
 ### 🛠 Key Plugins Used
 This RPG system was expanded using custom-written Javascript plugins to add modern RPG mechanics.
 
-```markdown
-📁 **Plugin Files**
-
-- [AltMenuScreen.js]( {{ site.baseurl }}/assets/js/AltMenuScreen.js )
-
-
-```
-
 ## Embedded video of my demos with commentary
 
 ##### V1 of demo

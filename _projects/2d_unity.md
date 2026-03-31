@@ -15,7 +15,7 @@ Role: Solo Developer
 
 Early version poc with 2D game: 
 
-<iframe src="{{ site.baseurl }}/assets/video/poc_u2.mp4"
+<iframe src="{{ site.baseurl }}/assets/video/poc_u2.2.mp4"
         width="100%"
         height="400px"
         frameborder="0"

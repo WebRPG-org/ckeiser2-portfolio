@@ -21,3 +21,21 @@ Early version poc with 2D game:
         frameborder="0"
         style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
+
+---
+
+Added more features including the blaster, updated ship design, and new asteroids including white dward star, black hole, fire asteroid, and ice planet. Still developing models for them.
+
+Each flying object has it's own:
+- Gravity
+- Visual Effects
+- Traits
+
+<iframe src="{{ site.baseurl }}/assets/video/poc_u2.3.mp4"
+        width="100%"
+        height="400px"
+        frameborder="0"
+        style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
+---

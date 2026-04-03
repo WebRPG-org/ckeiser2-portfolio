@@ -2,7 +2,7 @@
 layout: page
 title: In Progress! [Space Invaders] 🎮
 description: 2D Unity demo [In Progress]
-img: assets/img/2d_demo.png
+img: assets/img/title_screen.png
 category: games 🎮
 
 

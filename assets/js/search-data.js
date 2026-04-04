@@ -79,8 +79,8 @@ ninja.data = [{
             },},{id: "news-release-of-portfolio-2-0-current-site",
           title: 'Release of portfolio 2.0 (Current Site)',
           description: "",
-          section: "News",},{id: "projects-in-progress-space-invaders",
-          title: 'In Progress! [Space Invaders] 🎮',
+          section: "News",},{id: "projects-playable-and-in-progress-asteroid-survivors",
+          title: 'Playable and In Progress! [Asteroid Survivors] 🎮',
           description: "2D Unity demo [In Progress]",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/2d_unity/";

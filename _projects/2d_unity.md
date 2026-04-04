@@ -94,8 +94,8 @@ Space bar: shoot
 <div class="game-frame">
   <iframe
     src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
-    width="105%"
-    height="650"
+    width="108%"
+    height="675"
     frameborder="0"
     allowfullscreen>
   </iframe>

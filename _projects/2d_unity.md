@@ -57,6 +57,7 @@ Each flying object has it's own:
 - When spawns is extremely fast.
 - Has multiple partical effects including fire trail and embers.
 - Fastest special object.
+
 <img src="{{ site.baseurl }}/assets/img/fireball.png" alt="fireball">
 
 
@@ -93,8 +94,8 @@ Space bar: shoot
 <div class="game-frame">
   <iframe
     src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
-    width="120%"
-    height="1000"
+    width="110%"
+    height="700"
     frameborder="0"
     allowfullscreen>
   </iframe>

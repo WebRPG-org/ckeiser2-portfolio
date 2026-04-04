@@ -81,7 +81,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-playable-and-in-progress-asteroid-survivors",
           title: 'Playable and In Progress! [Asteroid Survivors] 🎮',
-          description: "2D Unity demo [In Progress]",
+          description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/2d_unity/";
             },},{id: "projects-design-barb-39-s-dungeon-️-️",

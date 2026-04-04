@@ -39,3 +39,20 @@ Each flying object has it's own:
 </iframe>
 
 ---
+
+### **Desktop Web version of Asteroid Survivors**
+
+```md
+Left mouse click: Control the ship
+Space bar: shoot
+```
+
+<div class="game-frame">
+  <iframe
+    src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
+    width="100%"
+    height="640"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>

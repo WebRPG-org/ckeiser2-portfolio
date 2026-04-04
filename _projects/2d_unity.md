@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Playable and In Progress! [Asteroid Survivors] 🎮
-description: 2D Unity demo [In Progress]
+description: 2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space. 
 img: assets/img/title_screen.png
 category: games 🎮
 
 
 ---
-##### Work in progress using Unity Learn as an aid for this project.
+##### Work in progress using Unity Learn as a reference for this project.
 
 **In the process of updating soon, still early in development**
 

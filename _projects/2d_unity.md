@@ -11,7 +11,27 @@ category: games 🎮
 
 **Still early in development**
 
-**Scroll to the bottom for the playable version**
+### **Desktop Web version of Asteroid Survivors**
+*Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
+
+```md
+Left mouse click: Control the ship
+Space bar: shoot
+```
+
+<div class="game-frame">
+  <iframe
+    src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
+    width="108%"
+    height="675"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+### Steps of Development
 
 Role: Solo Developer
 
@@ -85,20 +105,3 @@ Each flying object has it's own:
 </iframe>
 
 
-### **Desktop Web version of Asteroid Survivors**
-*Note*: Will only work on Desktop, as no mobile inputs are in source code. Use scroll wheel to find fullscreen icon in bottom right corner. Click "esc" to exit fullscreen mode.
-
-```md
-Left mouse click: Control the ship
-Space bar: shoot
-```
-
-<div class="game-frame">
-  <iframe
-    src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
-    width="108%"
-    height="675"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>

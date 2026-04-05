@@ -18,7 +18,12 @@ repo : # can be any name here other than the ones already defined in the jekyll-
   title: repo
   url: https://github.com/ckeiser2/portfolio
 
-previous portfolio : # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/me_pic.png # can be png, svg, jpg
-  title: Orignal Portfolio
-  url: https://ckeiser2.github.io
+#previous portfolio : # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: assets/img/me_pic.png # can be png, svg, jpg
+#  title: Orignal Portfolio
+#  url: https://ckeiser2.github.io
+
+game : # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: assets/img/title_screen.png # can be png, svg, jpg
+  title: Asteroid Survivors
+  url: https://ckeiser2.github.io/portfolio/projects/2d_unity/

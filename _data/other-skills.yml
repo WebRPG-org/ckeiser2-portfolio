@@ -1,14 +1,14 @@
 - name: C++
-  percentage: 35
-  level: Junior
-  color: success
+  percentage: 10
+  level: Beginner
+
 
 - name: C#
   percentage: 40
   level: Junior
-  color: warning
+
 
 - name: Ruby
   percentage: 50
   level: Junior
-  color: danger
+

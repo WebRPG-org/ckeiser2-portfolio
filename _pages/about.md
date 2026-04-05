@@ -6,7 +6,7 @@ subtitle: IT Auditor & Backend Developer
 
 profile:
   align: right
-  image: pfp.png
+  image: me_pic1.png
   image_circular: false # crops the image to make it circular
   more_info: >
     Information Sciences

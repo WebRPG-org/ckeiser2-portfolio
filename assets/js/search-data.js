@@ -191,11 +191,11 @@ ninja.data = [{
           window.open("https://github.com/ckeiser2/portfolio", "_blank");
         },
       },{
-        id: 'social-previous portfolio',
-        title: 'Previous portfolio',
+        id: 'social-game',
+        title: 'Game',
         section: 'Socials',
         handler: () => {
-          window.open("https://ckeiser2.github.io", "_blank");
+          window.open("https://ckeiser2.github.io/portfolio/projects/2d_unity/", "_blank");
         },
       },{
       id: 'light-theme',

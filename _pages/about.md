@@ -33,7 +33,7 @@ ___
 
 #### **Guide on above tabs**
 
-##### **[Projects](https://ckeiser2.github.io/portfolio/projects/)**
+##### **[All Projects](https://ckeiser2.github.io/portfolio/projects/)**
 - A collection of projects across a variety of languages and practices.
 
 ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**

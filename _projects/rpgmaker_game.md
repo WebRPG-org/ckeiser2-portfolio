@@ -5,12 +5,42 @@ category: games 🎮
 #tools: [RPGMaker, Javascript Plugin, Playable]
 img: assets/pngs/rpg_game.png
 layout: page
-description: Short developer project utilizing javascript
+description: Short rpg project, utilizing javascript in the "RPGMaker" engine.
 
 ---
-## 🎮 RPG Maker Project – Custom Javascript Plugins
+## 🎮 RPG Maker Project
 
-##### Role: Solo Developer
+#### Role: Solo Developer
+
+
+#### ▶ Play the Game below (Volume Warning!!!)
+```python
+"""
+Keybindings:
+
+On Mouse and Keyboard:
+
+Arrow keys / Mouse: Movement
+Space bar: Interacting
+
+On home screen:
+Options > to Control Volume.
+"""
+```
+
+<div class="game-frame">
+  <iframe
+    src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
+    width="100%"
+    height="640"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+### Refer to below for development details 
 
 Short project for a class. Utilziing the RPGmaker engine, created a small demo with a variety of hard coded creature encounters and cutscenes. Attached is a recording of me breaking down how the encounters, abilities, and levels through a mediaspace video. Showcases core engineering concepts like end user appeal, technical knowledge and user first design. Below is a button that takes you to a mediaspace video of me breaking down my design decisions. I would embed the video but github doesn't allow videos of a certain size and I'm in the process of remediating that. 
 
@@ -42,27 +72,3 @@ This RPG system was expanded using custom-written Javascript plugins to add mode
     allowfullscreen>
 </iframe>
 
-## ▶ Play the Game below (Volume Warning!!!)
-```python
-"""
-Keybindings:
-
-On Mouse and Keyboard:
-
-Arrow keys / Mouse: Movement
-Space bar: Interacting
-
-On home screen:
-Options > to Control Volume.
-"""
-```
-
-<div class="game-frame">
-  <iframe
-    src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
-    width="100%"
-    height="640"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>

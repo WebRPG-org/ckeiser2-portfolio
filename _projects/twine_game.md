@@ -14,7 +14,20 @@ description: Choose your own adventure short story, with 18 possible endings. Pl
 
 ##### Role: Solo Developer
 
-# Description
+## Playable Version of game below 🕹️
+<iframe
+  src="{{ 'assets/games/dnd.html' | relative_url }}"
+  width="120%"
+  height="1000"
+  style="border: none; border-radius: 8px;"
+  loading="lazy">
+</iframe>
+
+---
+
+### Refer to the below for Development details and game features!
+
+#### Description
 Creative writing DND-esque story with multiple endings written in HTML and CSS along with the Twine engines own language to hold onto and remember variables. Showcases a choose your own adventure story with questionable writing but cool mechanics for being text based. Decisions matter and even programmed a stats system in one of the storylines. Clicking on page will send you to an itch.io page where you can enjoy the html or Twine's own language "Twee" version. Different pathways have different story modes including a stat system in the (Dungeon Quest) and paths and choices being unlocked when you uncover different information in the picture below you can see a visualization of the different pathways with 18 unique endings. 
 
 *Below is a picture of story nodes along with an embedded version of the game*
@@ -75,14 +88,7 @@ Ending 2/18
 ]
 ```
 
-## Playable Version of game below 🕹️
-<iframe
-  src="{{ 'assets/games/dnd.html' | relative_url }}"
-  width="120%"
-  height="1000"
-  style="border: none; border-radius: 8px;"
-  loading="lazy">
-</iframe>
+
 
 
 

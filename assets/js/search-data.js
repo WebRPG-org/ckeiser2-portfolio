@@ -89,7 +89,7 @@ ninja.data = [{
           title: 'Playable and In Progress! [Asteroid Survivors] 🎮',
           description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/2d_unity/";
+              window.location.href = "/portfolio/projects/asteroid_survivors/";
             },},{id: "projects-design-barb-39-s-dungeon-️-️",
           title: '🎮 [Design] Barb&amp;#39;s Dungeon 🖋️ 🕹️',
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
@@ -122,7 +122,7 @@ ninja.data = [{
               window.location.href = "/portfolio/projects/python_data_viz/";
             },},{id: "projects-rpgmaker-game-playable-in-browser-️",
           title: '🎮 RPGMaker game [Playable in Browser] 🕹️',
-          description: "Short developer project utilizing javascript",
+          description: "Short rpg project, utilizing javascript in the &quot;RPGMaker&quot; engine.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/rpgmaker_game/";
             },},{id: "projects-geo-plotting-analysis",

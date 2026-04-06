@@ -29,9 +29,9 @@ latest_posts:
 
 Welcome to the portfolio! Website was built using "jekyll" an open-source static site generator written in Ruby. 
 
-Refer to the below for more information on navigating the above tabs:
-
 ___
+
+#### **Guide on above tabs**
 
 ##### **[Projects](https://ckeiser2.github.io/portfolio/projects/)**
 - A collection of projects across a variety of languages and practices.

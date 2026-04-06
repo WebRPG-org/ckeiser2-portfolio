@@ -18,7 +18,7 @@ description: Choose your own adventure short story, with 18 possible endings. Pl
 <iframe
   src="{{ 'assets/games/dnd.html' | relative_url }}"
   width="120%"
-  height="1500"
+  height="750"
   style="border: none; border-radius: 8px;"
   loading="lazy">
 </iframe>

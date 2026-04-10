@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "A look at the repo behind this page and my other github projects. *Note* my previous portfolio page (ckeiser2) has over 200 commits to it over the past 2 years of development. But, since I pushed those updates from my IDE with a different email than my github, it did not count as a contribution.",
+          description: "A look at the repo behind this page and my other github projects. Stats are pulled by a javascript repo and hosted on Vercel for real time pulling of data.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/repositories/";

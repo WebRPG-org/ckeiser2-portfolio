@@ -15,8 +15,29 @@ category: games 🎮
 *Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
 
 ```md
+Controls:
 Left mouse click: Control the ship
 Space bar: shoot
+Shift: dash *Need to unlock from shop via "Thrusters*
+
+Recently added features:
+### Shop
+Can buy multiple new power ups / features
+- Mr.S: A deployable satellite that provides the player with a reuseable shield.
+- Mr.B: A deployable satellite that provides the player with another blaster.
+- Atk Up: More attack speed.
+- Thruster: Gives the player a dash using "Left Shift" on a keyboard.
+
+### More UI
+
+### More Sound Effects
+
+### New custom cursor
+
+### More objects!!
+- Added the colorful comet!!!
+- Points now scale with asteroid type and size.
+- Adding more features in the future!!
 ```
 
 <div class="game-frame">

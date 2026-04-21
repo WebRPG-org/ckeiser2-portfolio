@@ -85,8 +85,8 @@ ninja.data = [{
           section: "News",},{id: "news-release-of-a-playable-demo-of-asteroid-survivors",
           title: 'Release of a playable demo of Asteroid Survivors',
           description: "",
-          section: "News",},{id: "projects-playable-and-in-progress-asteroid-survivors",
-          title: 'Playable and In Progress! [Asteroid Survivors] 🎮',
+          section: "News",},{id: "projects-playable-and-adding-updates-asteroid-survivors",
+          title: 'Playable and adding updates [Asteroid Survivors] 🎮',
           description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/asteroid_survivors/";

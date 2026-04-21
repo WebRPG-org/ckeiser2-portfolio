@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Colton Keiser; IT Auditor & Backend Developer
+subtitle: Colton Keiser, IT Auditor & Backend Developer
 
 profile:
   align: right

@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the portfolio! Website was built using "jekyll" an open-source static site generator written in Ruby. 
+Welcome to the portfolio! A compilation of all technical projects including games and python. Including experience, and repositories. Website is consistently being updated.
 
 ##### **[All Projects](https://ckeiser2.github.io/portfolio/projects/)**
 

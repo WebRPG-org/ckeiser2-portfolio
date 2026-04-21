@@ -9,8 +9,8 @@ profile:
   image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    Information Sciences
-    University of Illinois (UIUC)
+    B.S. Information Sciences
+    Alum of University of Illinois (UIUC)
     St. Louis, MO
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,8 +29,10 @@ latest_posts:
 
 Welcome to the portfolio! A compilation of all technical projects including games and python. Including experience, and repositories. Website is consistently being updated.
 
-##### **[All Projects](https://ckeiser2.github.io/portfolio/projects/)**
+--- 
 
-##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
+- ##### **[All Projects](https://ckeiser2.github.io/portfolio/projects/)**
 
-##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
+- ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
+
+- ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**

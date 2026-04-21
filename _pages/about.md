@@ -30,25 +30,3 @@ latest_posts:
 Welcome to the portfolio! Website was built using "jekyll" an open-source static site generator written in Ruby. 
 
 ___
-
-#### **Guide on above tabs**
-
-##### **[All Projects](https://ckeiser2.github.io/portfolio/projects/)**
-- A collection of projects across a variety of languages and practices.
-
-##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
-- A live overview of my GitHub repositories and featured builds.
-
-##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
-- A timeline of professional experience and resume.
-
-##### **Submenus**
-- Dropdown menu with more misc tabs.
-
-##### **Search (Ctrl + K)**
-- Search functionality for the entire site.
-
-##### **Light/Dark Mode**
-- Click on icon to the right of "ctrl k" to change from light -> Dark mode.
-
-___

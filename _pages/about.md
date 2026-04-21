@@ -9,8 +9,8 @@ profile:
   image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    Alum of University of Illinois
-    St. Louis, MO
+    Contact: colton.dev02@gmail.com
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

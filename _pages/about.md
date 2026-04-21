@@ -9,8 +9,7 @@ profile:
   image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    B.S. Information Sciences
-    Alum of University of Illinois (UIUC)
+    Alum of University of Illinois
     St. Louis, MO
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -2,14 +2,13 @@
 layout: about
 title: home
 permalink: /
-subtitle: IT Auditor & Backend Developer
+subtitle: Colton Keiser; IT Auditor & Backend Developer
 
 profile:
   align: right
   image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    Colton Keiser
     Contact: colton.dev02@gmail.com
 
 

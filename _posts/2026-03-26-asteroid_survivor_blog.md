@@ -3,7 +3,7 @@ layout: post
 title: Asteroid Survivors Development
 description: Learning 2D game development in Unity.
 tags: Unity, C#
-categories: game dev
+categories: gamedev
 ---
 
 

@@ -22,3 +22,6 @@ category: games 🎮
 
 ---
 
+### Refer to the Asteroid Survivors blog for dev details
+
+[Asteroid_Survivors_Blog](https://ckeiser2.github.io/portfolio/blog/2026/asteroid_survivor_blog/)

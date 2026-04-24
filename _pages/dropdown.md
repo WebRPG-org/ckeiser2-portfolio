@@ -8,9 +8,9 @@ children:
   - title: bookshelf
     permalink: /books/
   - title: divider
-#  - title: blog
-#    permalink: /blog/
-#  - title: divider
+  - title: blog
+    permalink: /blog/
+  - title: divider
   - title: about me
     permalink: /about_me/
   - title: divider

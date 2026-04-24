@@ -6,7 +6,7 @@ description: A growing collection of projects in gaming and various programming 
 nav: true
 nav_order: 2
 display_categories: [games 🎮,python 🐍,ruby 💎]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

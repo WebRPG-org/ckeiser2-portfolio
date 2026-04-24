@@ -4,12 +4,9 @@ title: Playable and adding updates [Asteroid Survivors] 🎮
 description: 2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space. 
 img: assets/img/title_screen.png
 category: games 🎮
-
-
 ---
 ##### Work in progress using Unity Learn as a reference for this project.
 
-### **Desktop Web version of Asteroid Survivors**
 *Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
 
 

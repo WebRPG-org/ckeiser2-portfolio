@@ -2,9 +2,9 @@
 layout: post
 title: RPGMaker Development
 description: Development in RpgMaker and my experience revisiting an old project to make a full front to back demo.
-tags: RPGMaker, Javascript, Game Dev
+tags: RPGMaker, Javascript
 date: 2026-03-15
-categories: Game Dev
+categories: game dev
 ---
 
 ```markdown

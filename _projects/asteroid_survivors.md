@@ -9,6 +9,12 @@ category: games 🎮
 
 *Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
 
+```md
+Controls:
+Left mouse click: Control the ship
+Space bar: shoot
+Shift: dash *Need to unlock from shop via "Thrusters*
+```
 
 <div class="game-frame">
   <iframe

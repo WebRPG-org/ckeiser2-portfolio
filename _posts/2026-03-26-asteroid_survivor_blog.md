@@ -6,13 +6,9 @@ tags: Unity, C#
 categories: gamedev
 ---
 
+[Refer_to_this_page_for_playable_version](https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/)
 
 ```md
-Controls:
-Left mouse click: Control the ship
-Space bar: shoot
-Shift: dash *Need to unlock from shop via "Thrusters*
-
 Recently added features:
 ### Shop
 Can buy multiple new power ups / features

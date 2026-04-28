@@ -32,27 +32,4 @@ I revisted the demo after a period of time to align many of the maps I had desig
     allowfullscreen>
 </iframe>
 
-## ▶ Play the Game (Volume Warning!!!)
-```python
-"""
-Keybindings:
-
-On Mouse and Keyboard:
-
-Arrow keys / Mouse: Movement
-Space bar: Interacting
-
-On home screen:
-Options > to Control Volume.
-"""
-```
-
-<div class="game-frame">
-  <iframe
-    src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
-    width="100%"
-    height="640"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+[Refer_to_this_page_for_playable_version](https://ckeiser2.github.io/portfolio/projects/rpgmaker_game/)

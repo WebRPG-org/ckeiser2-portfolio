@@ -219,7 +219,7 @@ ninja.data = [{
         title: 'Game',
         section: 'Socials',
         handler: () => {
-          window.open("https://ckeiser2.github.io/portfolio/games/asteroid_survivors/", "_blank");
+          window.open("https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/", "_blank");
         },
       },{
       id: 'light-theme',

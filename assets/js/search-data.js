@@ -9,15 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-games",
-          title: "games",
-          description: "A growing collection of game related projects.",
+  },{id: "nav-my-games",
+          title: "my games",
+          description: "A growing collection of my game related projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/games/";
           },
-        },{id: "nav-all-projects",
-          title: "all projects",
+        },{id: "nav-data-projects",
+          title: "data projects",
           description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
           section: "Navigation",
           handler: () => {
@@ -106,26 +106,11 @@ ninja.data = [{
           section: "News",},{id: "news-release-of-a-playable-demo-of-asteroid-survivors",
           title: 'Release of a playable demo of Asteroid Survivors',
           description: "",
-          section: "News",},{id: "projects-playable-and-adding-updates-asteroid-survivors",
-          title: 'Playable and adding updates [Asteroid Survivors] 🎮',
-          description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/asteroid_survivors/";
-            },},{id: "projects-design-barb-39-s-dungeon-️-️",
-          title: '🎮 [Design] Barb&amp;#39;s Dungeon 🖋️ 🕹️',
-          description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/barbs_dungeon/";
-            },},{id: "projects-first-ruby-jekyll-portfolio-site",
+          section: "News",},{id: "projects-first-ruby-jekyll-portfolio-site",
           title: 'First Ruby | Jekyll Portfolio Site',
           description: "Original portfolio site using Ruby&#39;s Jekyll site generator",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/first_port_site/";
-            },},{id: "projects-godot-game-2048-knight-️",
-          title: '🎮 Godot Game [2048 Knight] 🕹️',
-          description: "C# in Godot Engine, Designed the UI and multiple systems.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/godot_game/";
             },},{id: "projects-machine-learning-via-tweets",
           title: 'Machine Learning via Tweets 🤖 🧠',
           description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
@@ -141,11 +126,6 @@ ninja.data = [{
           description: "Using Python and packages like Altair | Data Analytics | Data Visualization",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/python_data_viz/";
-            },},{id: "projects-rpgmaker-game-playable-in-browser-️",
-          title: '🎮 RPGMaker game [Playable in Browser] 🕹️',
-          description: "Short rpg project, utilizing javascript in the &quot;RPGMaker&quot; engine.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/rpgmaker_game/";
             },},{id: "projects-geo-plotting-analysis",
           title: '📊 Geo Plotting / Analysis',
           description: "Using python libraries to use data over geo maps",
@@ -166,16 +146,6 @@ ninja.data = [{
           description: "Topic Modeling with Python",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/topic_modeling/";
-            },},{id: "projects-twine-game-quot-a-myconid-39-s-story-quot-playable-in-browser-️-️",
-          title: '🎮 Twine Game - &amp;quot;A Myconid&amp;#39;s Story&amp;quot; [Playable in Browser]🖋️ 🕹️',
-          description: "Choose your own adventure short story, with 18 possible endings. Playable within Browser.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/twine_game/";
-            },},{id: "projects-in-progress-roll-a-ball",
-          title: 'In Progress! [Roll-a-Ball] 🎮',
-          description: "Unity demo excercise where you play as a ball collecting consumables, dodging enemies.",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/unity_game1/";
             },},{id: "projects-text-analysis-visualization",
           title: '📊 Text Analysis Visualization',
           description: "Python project | Data Scraping | Altair",
@@ -219,7 +189,7 @@ ninja.data = [{
         title: 'Game',
         section: 'Socials',
         handler: () => {
-          window.open("https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/", "_blank");
+          window.open("https://ckeiser2.github.io/portfolio/games/asteroid_survivors/", "_blank");
         },
       },{
       id: 'light-theme',

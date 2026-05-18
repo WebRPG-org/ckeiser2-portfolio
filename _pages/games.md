@@ -6,7 +6,7 @@ description: A growing collection of my game related projects.
 nav: true
 nav_order: 2
 display_categories: [games 🎮]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

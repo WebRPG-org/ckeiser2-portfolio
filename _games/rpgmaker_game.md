@@ -1,8 +1,6 @@
 ---
 title: 🎮 RPGMaker game [Playable in Browser] 🕹️
-#permalink: /games/:name/
 category: games 🎮
-#tools: [RPGMaker, Javascript Plugin, Playable]
 img: assets/pngs/rpg_game.png
 layout: page
 description: Short rpg project, utilizing javascript in the "RPGMaker" engine.

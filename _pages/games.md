@@ -1,12 +1,12 @@
 ---
 layout: page
-title: all projects
-permalink: /projects/
-description: A growing collection of projects in gaming and various programming languages. Seperated currently by "Games", "Python", and "Ruby" sections.
+title: games
+permalink: /games/
+description: A growing collection of game related projects.
 nav: true
-nav_order: 3
-display_categories: [python 🐍,ruby 💎]
-horizontal: false
+nav_order: 2
+display_categories: [games 🎮]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

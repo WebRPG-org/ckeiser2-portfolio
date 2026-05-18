@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/games.md -->
-<div class="games">
+<div class="projects">
 {% if site.enable_game_categories and page.display_categories %}
   <!-- Display categorized games -->
   {% for category in page.display_categories %}

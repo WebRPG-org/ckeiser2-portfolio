@@ -1,8 +1,8 @@
 ---
 layout: page
-title: games
+title: my games
 permalink: /games/
-description: A growing collection of game related projects.
+description: A growing collection of my game related projects.
 nav: true
 nav_order: 2
 display_categories: [games 🎮]

@@ -26,4 +26,4 @@ repo : # can be any name here other than the ones already defined in the jekyll-
 game : # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: assets/img/title_screen.png # can be png, svg, jpg
   title: Asteroid Survivors
-  url: https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/
+  url: https://ckeiser2.github.io/portfolio/games/asteroid_survivors/

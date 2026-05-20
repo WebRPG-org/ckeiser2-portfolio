@@ -4,7 +4,7 @@
     - name: Full Name
       value: Colton Keiser
     - name: Education
-      value: Information Sciences @ UIUC
+      value: M.S. Game Development @ UIUC 
     - name: Current role
       value: IT Auditor | Backend Developer
     - name: Languages
@@ -13,6 +13,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: M.S. Game Development
+      institution: University of Illinois Urbana-Champaign
+      year: 2026 - 2028
+      description:
+        - Courses consist of Game Development courses centered around designing and programming interactive games utilizing tools/technologies such as Unity and Unreal Engine. 
+        - Program is centered around game studio practicum's where students get industry experience working on industry projects.
     - title: B.S. Information Sciences
       institution: University of Illinois Urbana-Champaign
       year: 2020 - 2024

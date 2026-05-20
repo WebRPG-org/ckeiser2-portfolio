@@ -17,18 +17,20 @@
       institution: University of Illinois Urbana-Champaign
       year: 2026 - 2028
       description:
-        - Courses consist of Game Development courses centered around designing and programming interactive games utilizing tools/technologies such as Unity and Unreal Engine. 
-        - Program is centered around game studio practicum's where students get industry experience working on industry projects.
+        - Centered around designing and programming interactive games utilizing tools/technologies such as Unity and Unreal Engine. 
+        - Program is centered around game studio practicum's where students get industry experience working on shipped projects.
     - title: B.S. Information Sciences
       institution: University of Illinois Urbana-Champaign
       year: 2020 - 2024
       description:
-        - Courses consisted of a varity of technical experiences including learning programming languages like Python, Ruby, and SQL. Additionally, a variety of broader technical skills such as IT infrastructure and game development.
+        - Courses consisted of a varity of technical experiences including learning programming languages like Python, Ruby, and SQL. 
+        - A variety of broader technical skills such as IT infrastructure and game development.
     - title: Minor in Game Studies and Design
       institution: University of Illinois Urbana-Champaign
       year: 2020 - 2024
       description:
-        - Courses consisted of a variety of development and design experience working in semester long projects. Engines used were Unreal Engine, Godot, Unity, and RPGMaker. Roles on teams focused around game programming and design.
+        - Courses consisted of a variety of development and design experience working in semester long projects. 
+        - Engines used were Unreal Engine, Godot, Unity, and RPGMaker. Roles on teams focused around game programming and design.
 
 
 - title: Experience
@@ -59,10 +61,20 @@
 
 
 
-- title: Honors and Awards
+- title: Certifications
   type: time_table
   contents:
-    - year: 2024
+    - title: Power Platform Functional Consultant Associate PL-200 Certification
+      institution: Microsoft
+    - year: 2026
+    - title: Junior Programmer Certification
+      institution: Unity
+    - year: 2026
+
+- title: Certifications
+  type: time_table
+  contents:
+    - year: 2026
       items:
         - UIUC iSchool Dean's List
     - year: 2023

@@ -106,6 +106,7 @@ Each flying object has it's own:
 
 ##### New Feature 5.21.2026
 
-Added in recently was a radar to aid players with predicting fast paced objects coming from offscreen and also to identify other objects to rack up points.
+- Added in recently was a radar to aid players with predicting fast paced objects coming from offscreen and also to identify other objects to rack up points.
+- Drew the radar myself in Krita and imported and scripted all assets tied to new feature.
 
 <img src="{{ site.baseurl }}/assets/pngs/game_radar.png" alt="GameRadar">

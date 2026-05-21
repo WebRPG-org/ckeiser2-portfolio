@@ -103,3 +103,9 @@ Each flying object has it's own:
 </iframe>
 
 
+
+##### New Feature 5.21.2026
+
+Added in recently was a radar to aid players with predicting fast paced objects coming from offscreen and also to identify other objects to rack up points.
+
+<img src="{{ site.baseurl }}/assets/pngs/game_radar.png" alt="GameRadar">

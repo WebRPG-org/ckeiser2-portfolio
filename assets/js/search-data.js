@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-my-games",
-          title: "my games",
+  },{id: "nav-game-projects",
+          title: "game projects",
           description: "A growing collection of my game related projects.",
           section: "Navigation",
           handler: () => {

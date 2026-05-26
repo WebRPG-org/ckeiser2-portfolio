@@ -208,6 +208,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/colton-keiser/", "_blank");
         },
       },{
+        id: 'social-handshake',
+        title: 'Handshake',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://illinois.joinhandshake.com/profiles/colton_keiser", "_blank");
+        },
+      },{
         id: 'social-repo',
         title: 'Repo',
         section: 'Socials',

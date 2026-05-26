@@ -13,6 +13,11 @@ linkedin: # can be any name here other than the ones already defined in the jeky
   title: Linkedin
   url: https://www.linkedin.com/in/colton-keiser/
 
+handshake: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: assets/img/handshake.png # can be png, svg, jpg
+  title: Handshake
+  url: https://illinois.joinhandshake.com/profiles/colton_keiser
+
 repo : # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: assets/img/github.png # can be png, svg, jpg
   title: repo

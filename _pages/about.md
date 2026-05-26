@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Colton Keiser, IT Auditor & Backend Developer
+subtitle: Colton Keiser, Backend Developer
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Contact: colton.dev02@gmail.com
+    Consultant @ Protiviti 
     M.S. Game Development @ UIUC
 
 
@@ -27,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the portfolio! A compilation of all technical projects including games and python. Including experience, and repositories. Website is consistently being updated.
+Welcome to the portfolio! A compilation of all technical projects, experience, and repositories. Website is consistently being updated.
 
 --- 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**

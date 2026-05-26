@@ -6,7 +6,7 @@ subtitle: Colton Keiser, IT Auditor & Backend Developer
 
 profile:
   align: right
-  image: headshot.JPG
+  image: pfp2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     Contact: colton.dev02@gmail.com

@@ -30,7 +30,7 @@ latest_posts:
 Welcome to the portfolio! A compilation of all technical projects including games and python. Including experience, and repositories. Website is consistently being updated.
 
 --- 
-- ##### **[My Games](https://ckeiser2.github.io/portfolio/games/)**
+- ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
 - ##### **[Data Projects](https://ckeiser2.github.io/portfolio/projects/)**
 

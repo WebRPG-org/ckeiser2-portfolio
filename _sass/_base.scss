@@ -252,13 +252,14 @@ ul.task-list input[type="checkbox"] {
 .home-page .post h3 {
   position: relative;
 
+  display: inline-block;
+
   padding: 0.65rem 1.25rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 
   border-left: 5px solid var(--global-theme-color);
 
-  overflow: visible;
   z-index: 1;
 }
 
@@ -277,7 +278,7 @@ ul.task-list input[type="checkbox"] {
   left: -100vw;
   right: -100vw;
 
-  background: color-mix(
+  background-color: color-mix(
     in srgb,
     var(--global-theme-color) 10%,
     transparent

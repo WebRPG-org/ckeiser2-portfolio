@@ -1,5 +1,6 @@
 ---
 layout: about
+body_class: about-page
 title: home
 permalink: /
 subtitle: >

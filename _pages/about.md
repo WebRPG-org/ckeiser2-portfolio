@@ -32,6 +32,13 @@ latest_posts:
 
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
 ### **About Me**
 
 Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
@@ -46,6 +53,6 @@ In my free time I enjoy gaming, reading and a mixture of weight and endurance tr
 
 - ##### **[Data Projects](https://ckeiser2.github.io/portfolio/projects/)**
 
-- ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
+- ##### **[Project Repos](https://ckeiser2.github.io/portfolio/repositories/)**
 
-- ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
+- ##### **[Experience/CV](https://ckeiser2.github.io/portfolio/resume/)**

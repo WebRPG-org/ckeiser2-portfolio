@@ -9,7 +9,7 @@ profile:
   image: pfp2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    colton.dev02@gmail.com
+    Contact: colton.dev02@gmail.com
     M.S. Game Development @ UIUC
     Consultant @ Protiviti 
 

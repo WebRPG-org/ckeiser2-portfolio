@@ -34,9 +34,9 @@ A compilation of all technical projects, experience, and repositories. Website i
 
 ### About Me
 
-Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
+Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
 
-Actively pursuing a M.S. in Game Development at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
+Actively pursuing a **M.S. in Game Development** at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
 
 In my free time I enjoy gaming, reading and a mixture of weight and endurance training. I am actively training for a 10k!! Additionally, pursuing a junior developer and power platforms certification as well!
 
@@ -51,3 +51,5 @@ In my free time I enjoy gaming, reading and a mixture of weight and endurance tr
 - ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
 
 - ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
+
+---

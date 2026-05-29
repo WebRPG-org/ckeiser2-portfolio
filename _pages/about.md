@@ -35,8 +35,7 @@ A compilation of all technical projects, experience, and repositories. Website i
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
+
 
 
 ### **About Me**

@@ -11,7 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Contact: colton.dev02@gmail.com
-    Socials below
     
 
 

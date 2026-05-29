@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: 
+  image: pfp2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     
@@ -27,11 +27,10 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
 ---
 
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
-
---- 
 
 ### About Me
 
@@ -40,8 +39,6 @@ Graduated from the **University of Illinois** with a **Bachelor’s in Informati
 Actively pursuing a **M.S. in Game Development** at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
 
 In my free time I enjoy gaming, reading and a mixture of weight and endurance training. I am actively training for a 10k!! Additionally, pursuing a junior developer and power platforms certification as well!
-
----
 
 ### Projects/Experience
 
@@ -52,5 +49,3 @@ In my free time I enjoy gaming, reading and a mixture of weight and endurance tr
 - ##### **[Repositories](https://ckeiser2.github.io/portfolio/repositories/)**
 
 - ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
-
----

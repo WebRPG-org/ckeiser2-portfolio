@@ -16,9 +16,13 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-  <body class="{% if page.url == '/' %}home-page{% endif %} {% if page.layout == 'about' %}about-page{% endif %}">
-  <body class="{{ page.body_class }}">
+  <body class="
+    {% if site.navbar_fixed %}fixed-top-nav{% endif %}
+    {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}
+    {% if page.url == '/' %}home-page{% endif %}
+    {% if page.layout == 'about' %}about-page{% endif %}
+    {{ page.body_class }}
+  ">
     <!-- Header -->
     {% include header.liquid %}
 

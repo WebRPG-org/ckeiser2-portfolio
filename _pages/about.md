@@ -4,8 +4,6 @@ title: home
 permalink: /
 subtitle: >
   Colton Keiser, Backend Developer
-  M.S. Game Development @ UIUC
-  Consultant @ Protiviti 
 
 profile:
   align: right
@@ -31,8 +29,11 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+ 
+M.S. Game Development @ UIUC
+Consultant @ Protiviti 
 
-Welcome to the portfolio! A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
+A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
 --- 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**

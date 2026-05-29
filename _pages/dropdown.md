@@ -11,9 +11,9 @@ children:
   - title: blog
     permalink: /blog/
   - title: divider
-  - title: about me
-    permalink: /about_me/
-  - title: divider
+#  - title: about me
+#    permalink: /about_me/
+#  - title: divider
 #  - title: news
 #    permalink: /news/
 #  - title: divider

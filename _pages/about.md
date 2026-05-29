@@ -32,6 +32,27 @@ latest_posts:
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
 --- 
+
+### About Me
+Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
+
+Actively pursuing a M.S. in Game Development at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
+
+In my free time I enjoy gaming, reading and a mixture of weight and endurance training. I am actively training for a 10k!! Additionally, pursuing a junior developer and power apps certification as well!
+
+---
+
+### Active Role
+
+##### IT Audit Consultant @ **Protiviti**
+2024 - Present
+- Descriptions:
+  - Perform client-facing IT audits, evaluating compliance and effectiveness of information systems and testing ITGC controls from a IT SOX & NIST CSF perspective. 
+  - Contribute to the internal programming team as a back-end developer, creating custom tools, applications, and process accelerators.
+      - Skills:
+          - IT SOX and NIST CSF
+          - Python
+
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
 - ##### **[Data Projects](https://ckeiser2.github.io/portfolio/projects/)**

@@ -244,6 +244,32 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+// Header customization
+.about-page .post h2 {
+  position: relative;
+  padding: 0.8rem 1rem;
+  border-left: 5px solid var(--global-theme-color);
+  overflow: visible;
+  z-index: 1;
+}
+
+.about-page .post h2::before {
+  content: "";
+  position: absolute;
+
+  top: 0;
+  bottom: 0;
+  left: -100vw;
+  right: -100vw;
+
+  background: color-mix(
+    in srgb,
+    var(--global-theme-color) 8%,
+    transparent
+  );
+
+  z-index: -1;
+}
 
 // Navbar customization
 

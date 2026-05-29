@@ -17,6 +17,7 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="{% if page.url == '/' %}home-page{% endif %} {% if page.layout == 'about' %}about-page{% endif %}">
     <!-- Header -->
     {% include header.liquid %}
 

@@ -10,7 +10,6 @@ profile:
   image: pfp2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    Contact: colton.dev02@gmail.com
     
 
 
@@ -34,6 +33,7 @@ A compilation of all technical projects, experience, and repositories. Website i
 --- 
 
 ### About Me
+
 Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
 
 Actively pursuing a M.S. in Game Development at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
@@ -42,18 +42,7 @@ In my free time I enjoy gaming, reading and a mixture of weight and endurance tr
 
 ---
 
-### Active Role
-
-##### IT Audit Consultant @ **Protiviti**
-2024 - Present
-- Descriptions:
-  - Perform client-facing IT audits, evaluating compliance and effectiveness of information systems and testing ITGC controls from a IT SOX & NIST CSF perspective. 
-  - Contribute to the internal programming team as a back-end developer, creating custom tools, applications, and process accelerators.
-      - Skills:
-          - IT SOX and NIST CSF
-          - Python
-
----
+### Projects/Experience
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 

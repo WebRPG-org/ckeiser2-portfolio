@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     colton.dev02@gmail.com
+    M.S. Game Development @ UIUC
     Consultant @ Protiviti 
-    Game Development @ UIUC
+
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -109,6 +109,10 @@ Each flying object has it's own:
 - Added in recently was a radar to aid players with predicting fast paced objects coming from offscreen and also to identify other objects to rack up points.
 - Drew the radar myself in Krita and imported and scripted all assets tied to new feature.
 
+##### New Feature 5.31.2026
+
+- Added interactive UI, the "battery" on the left side indicates when the cooldown of the shield "Mr.S" is off cooldown and is transparent when on cooldown.
+- Added new ship design drawn in Krita.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

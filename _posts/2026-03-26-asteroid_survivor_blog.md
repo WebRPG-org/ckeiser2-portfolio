@@ -121,5 +121,5 @@ Each flying object has it's own:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/pngs/new_features_5.31.2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/new_features_5.31.2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
